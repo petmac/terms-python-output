@@ -1,10 +1,10 @@
-### Version 6
+## Terms of Service
 
 These Terms of Service (" **Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, and widgets, (the " **Services**" or “ **Twitter** ”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as " **Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
 ### 1. Basic Terms
 
-You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the [account settings](/settings/account) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
+You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the [account settings](/settings/security) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
 
 Tip What you say on Twitter may be viewed all around the world instantly. You are what you Tweet!
 
@@ -74,8 +74,8 @@ We reserve the right to remove Content alleged to be infringing without prior no
 
 <address>Twitter, Inc.<br>
 Attn: Copyright Agent<br>
-795 Folsom Street, Suite 600<br>
-San Francisco, CA 94107<br>
+1355 Market Street, Suite 900<br>
+San Francisco, CA 94103<br>
 Reports: <a href="https://support.twitter.com/forms/dmca">https://support.twitter.com/forms/dmca</a><br>
 Email: <a href="mailto:copyright@twitter.com">copyright@twitter.com</a>
 </address>
@@ -132,7 +132,9 @@ These Terms, the [Twitter Rules](http://support.twitter.com/articles/18311-the-t
 
 We may revise these Terms from time to time, the most current version will always be at [twitter.com/tos](/tos). If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
-These Services are operated and provided by Twitter Inc., 795 Folsom Street, Suite 600, San Francisco, CA 94107. If you have any questions about these Terms, please [contact us](/about/contact).
+These Services are operated and provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103. If you have any questions about these Terms, please [contact us](/about/contact).
 
-_Effective: May 17, 2012_
+_Effective: June 25, 2012_
+
+[Archive of Previous Terms](https://twitter.com/tos/previous)
 
