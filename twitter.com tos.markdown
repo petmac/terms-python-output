@@ -1,12 +1,17 @@
 ## Terms of Service
 
-These Terms of Service (" **Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, and widgets, (the " **Services**" or “ **Twitter** ”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as " **Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
+These Terms of Service (" **Terms**") govern your access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, and commerce services (the " **Services**" or “ **Twitter** ”), and any information, text, graphics, photos or other materials uploaded, downloaded or appearing on the Services (collectively referred to as " **Content**"). Your access to and use of the Services are conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
+**Terms**** Services ****Twitter**** Content**
 ### 1. Basic Terms
 
 You are responsible for your use of the Services, for any Content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the [account settings](/settings/security) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
 
+ [account settings](/settings/security)
+
 Tip What you say on Twitter may be viewed all around the world instantly. You are what you Tweet!
+
+Tip
 
 You may use the Services only if you can form a binding contract with Twitter and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so. You may use the Services only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations.
 
@@ -18,8 +23,11 @@ The Services may include advertisements, which may be targeted to the Content or
 
 Any information that you provide to Twitter is subject to our [Privacy Policy](/privacy), which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Twitter account, which you may not be able to opt-out from receiving.
 
+ [Privacy Policy](/privacy)
+
 Tip You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the [Notifications](/settings/notifications) tab of Settings for more.
 
+Tip [Notifications](/settings/notifications)
 ### 3. Passwords
 
 You are responsible for safeguarding the password that you use to access the Services and for any activities or actions under your password. We encourage you to use "strong" passwords (passwords that use a combination of upper and lower case letters, numbers and symbols) with your account. Twitter cannot and will not be liable for any loss or damage arising from your failure to comply with the above.
@@ -36,9 +44,13 @@ You retain your rights to any Content you submit, post or display on or through 
 
 Tip This license is you authorizing us to make your Tweets available to the rest of the world and to let others do the same.
 
+Tip
+
 You agree that this license includes the right for Twitter to provide, promote, and improve the Services and to make Content submitted to or through the Services available to other companies, organizations or individuals who partner with Twitter for the syndication, broadcast, distribution or publication of such Content on other media and services, subject to our terms and conditions for such Content use.
 
 Tip Twitter has an evolving set of [rules](/apirules) for how ecosystem partners can interact with your Content. These rules exist to enable an open ecosystem with your rights in mind. But what’s yours is yours – you own your Content (and your photos are part of that Content).
+
+Tip [rules](/apirules)
 
 Such additional uses by Twitter, or other companies, organizations or individuals who partner with Twitter, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
@@ -58,11 +70,23 @@ All right, title, and interest in and to the Services (excluding Content provide
 
 Please review the [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules) (which are part of these Terms) to better understand what is prohibited on the Service. We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services, to suspend or terminate users, and to reclaim usernames without liability to you. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public.
 
+ [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules)
+
 Tip Twitter does not disclose personally identifying information to third parties except in accordance with our [Privacy Policy](/privacy).
+
+Tip [Privacy Policy](/privacy)
 
 Except as permitted through the Services, these Terms, or the terms provided on [dev.twitter.com](http://dev.twitter.com), you have to use the [Twitter API](http://dev.twitter.com) if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Content or Services.
 
+ [dev.twitter.com](http://dev.twitter.com) [Twitter API](http://dev.twitter.com)
+
 Tip We encourage and permit broad re-use of Content. The Twitter API exists to enable this.
+
+Tip
+
+If you use commerce features of the Services that require credit or debit card information, such as our Buy Now feature, you agree to our [Twitter Commerce Terms](https://support.twitter.com/articles/20171943).
+
+ [Twitter Commerce Terms](https://support.twitter.com/articles/20171943)
 
 You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited); (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information; or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
 
@@ -79,14 +103,27 @@ San Francisco, CA 94103<br>
 Reports: <a href="https://support.twitter.com/forms/dmca">https://support.twitter.com/forms/dmca</a><br>
 Email: <a href="mailto:copyright@twitter.com">copyright@twitter.com</a>
 </address>
-
+  
+  
+  
+  
+  
+  
+  
+  
+ [https://support.twitter.com/forms/dmca](https://support.twitter.com/forms/dmca)  
+ [copyright@twitter.com](mailto:copyright@twitter.com)
 ### 10. Ending These Terms
 
 The Terms will continue to apply until terminated by either you or Twitter as follows.
 
 You may end your legal agreement with Twitter at any time for any reason by [deactivating](http://support.twitter.com/articles/15358-how-to-deactivate-your-account) your accounts and discontinuing your use of the Services. You do not need to specifically inform Twitter when you stop using the Services. If you stop using the Services without deactivating your accounts, your accounts may be deactivated due to prolonged inactivity under our [Inactive Account Policy](http://support.twitter.com/articles/15362-inactive-account-policy).
 
+ [deactivating](http://support.twitter.com/articles/15358-how-to-deactivate-your-account) [Inactive Account Policy](http://support.twitter.com/articles/15362-inactive-account-policy)
+
 We may suspend or terminate your accounts or cease providing you with all or part of the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms or the [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules), (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your account or the next time you attempt to access your account.
+
+ [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules)
 
 In all such cases, the Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: 4, 5, 7, 8, 10, 11, and 12.
 
@@ -130,11 +167,20 @@ If you are a federal, state, or local government entity in the United States usi
 
 These Terms, the [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules) and our [Privacy Policy](/privacy) are the entire and exclusive agreement between Twitter and you regarding the Services (excluding any services for which you have a separate agreement with Twitter that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Twitter and you regarding the Services. Other than members of the group of companies of which Twitter, Inc. is the parent, no other person or company will be third party beneficiaries to the Terms.
 
+ [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules) [Privacy Policy](/privacy)
+
 We may revise these Terms from time to time, the most current version will always be at [twitter.com/tos](/tos). If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
+
+ [twitter.com/tos](/tos)
 
 These Services are operated and provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103. If you have any questions about these Terms, please [contact us](/about/contact).
 
-_Effective: June 25, 2012_
+ [contact us](/about/contact)
+
+_Effective: September 8, 2014_
+
+_Effective: September 8, 2014_
 
 [Archive of Previous Terms](https://twitter.com/tos/previous)
 
+ [Archive of Previous Terms](https://twitter.com/tos/previous)
