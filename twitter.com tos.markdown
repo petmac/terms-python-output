@@ -1,14 +1,12 @@
-### Version 2
-
-By using the Twitter.com web site, a service of Twitter, Inc., you are agreeing to be bound by the following terms and conditions ("Terms of Use").
+### Version 3
 
 These Terms of Service (“ **Terms** ”) govern your access to and use of the services and Twitter’s websites (the “ **Services** ”), and any information, text, graphics, or other materials uploaded, downloaded or appearing on the Services (collectively referred to as “ **Content** ”). Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
 ### Basic Terms
 
-You are responsible for your use of the Services, for any content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the [Account Settings](/settings/account) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
+You are responsible for your use of the Services, for any content you post to the Services, and for any consequences thereof. The Content you submit, post, or display will be able to be viewed by other users of the Services and through third party services and websites (go to the [account settings](/settings/account) page to control who sees your Content). You should only provide Content that you are comfortable sharing with others under these Terms.
 
-What you say on Twitter may be viewed all around the world instantly. You are what you Tweet!
+Tip What you say on Twitter may be viewed all around the world instantly. You are what you Tweet!
 
 You may use the Services only if you can form a binding contract with Twitter and are not a person barred from receiving services under the laws of the United States or other applicable jurisdiction. You may use the Services only in compliance with these Terms and all applicable local, state, national, and international laws, rules and regulations.
 
@@ -16,13 +14,13 @@ The Services that Twitter provides are always evolving and the form and nature o
 
 The Services may include advertisements, which may be targeted to the Content or information on the Services, queries made through the Services, or other information. The types and extent of advertising by Twitter on the Services are subject to change. In consideration for Twitter granting you access to and use of the Services, you agree that Twitter and its third party providers and partners may place such advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others.
 
-We're leaving the door open for exploration in this area but we don't have anything to announce.
+Tip We're leaving the door open for exploration in this area but we don't have anything to announce.
 
 ### Privacy
 
 Any information that you provide to Twitter is subject to our [Privacy Policy](/privacy), which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Twitter account, which you may not be able to opt-out from receiving.
 
-You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the Notices tab of Settings for more.
+Tip You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the Notices tab of Settings for more.
 
 ### Passwords
 
@@ -38,11 +36,11 @@ We do not endorse, support, represent or guarantee the completeness, truthfulnes
 
 You retain your rights to any Content you submit, post or display on or through the Services. By submitting, posting or displaying Content on or through the Services, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods (now known or later developed).
 
-This license is you authorizing us to make your Tweets available to the rest of the world and to let others do the same. But what’s yours is yours – you own your content.
+Tip This license is you authorizing us to make your Tweets available to the rest of the world and to let others do the same. But what’s yours is yours – you own your content.
 
 You agree that this license includes the right for Twitter to make such Content available to other companies, organizations or individuals who partner with Twitter for the syndication, broadcast, distribution or publication of such Content on other media and services, subject to our terms and conditions for such Content use.
 
-Twitter has an evolving set of [rules](/apirules) for how API developers can interact with your content. These rules exist to enable an open ecosystem with your rights in mind.
+Tip Twitter has an evolving set of [rules](/apirules) for how API developers can interact with your content. These rules exist to enable an open ecosystem with your rights in mind.
 
 Such additional uses by Twitter, or other companies, organizations or individuals who partner with Twitter, may be made with no compensation paid to you with respect to the Content that you submit, post, transmit or otherwise make available through the Services.
 
@@ -60,11 +58,11 @@ All right, title, and interest in and to the Services (excluding Content provide
 
 We reserve the right at all times (but will not have an obligation) to remove or refuse to distribute any Content on the Services and to terminate users or reclaim usernames. Please review the [Twitter Rules](http://support.twitter.com/articles/18311-the-twitter-rules) (which are part of these Terms) to better understand what is prohibited on the Service. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Twitter, its users and the public.
 
-Twitter does not disclose personally identifying information to third parties except in accordance with our Privacy Policy.
+Tip Twitter does not disclose personally identifying information to third parties except in accordance with our Privacy Policy.
 
 Except as permitted through the Services (or these Terms), you have to use the [Twitter API](http://apiwiki.twitter.com) if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Content or Services.
 
-We encourage and permit broad re-use of Content. The Twitter API exists to enable this.
+Tip We encourage and permit broad re-use of Content. The Twitter API exists to enable this.
 
 You may not do any of the following while accessing or using the Services: (i) access, tamper with, or use non-public areas of the Services, Twitter’s computer systems, or the technical delivery systems of Twitter’s providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Twitter (and only pursuant to those terms and conditions), unless you have been specifically allowed to do so in a separate agreement with Twitter (NOTE: crawling the Services is permissible if done in accordance with the provisions of the robots.txt file, however, scraping the Services without the prior consent of Twitter is expressly prohibited); (iv) forge any TCP/IP packet header or any part of the header information in any email or posting, or in any way use the Services to send altered, deceptive or false source-identifying information; or (v) interfere with, or disrupt, (or attempt to do so), the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
 
@@ -74,7 +72,7 @@ Twitter respects the intellectual property rights of others and expects users of
 
 We reserve the right to remove Content alleged to be infringing without prior notice and at our sole discretion. In appropriate circumstances, Twitter will also terminate a user’s account if the user is determined to be a repeat infringer. Our designated copyright agent for notice of alleged copyright infringement appearing on the Services is:
 
-<address>Twitter, Inc. <br> Attn: Copyright Agent <br> 539 Bryant Street, Suite 402 <br> San Francisco, CA 94107 <br> Email: <a href="mailto:copyright@twitter.com">copyright@twitter.com</a>
+<address>Twitter, Inc. <br> Attn: Copyright Agent <br> 795 Folsom Street, Suite 600 <br> San Francisco, CA 94107 <br> Email: <a href="mailto:copyright@twitter.com">copyright@twitter.com</a>
 </address>
 
 ### The Services are Available “AS-IS”
@@ -99,7 +97,7 @@ The failure of Twitter to enforce any right or provision of these Terms will not
 
 ### Controlling Law and Jurisdiction
 
-These Terms and any action related thereto will be governed by the laws of the State of California without regard to or application of its conflict of law provisions or your state or country of residence. All claims, legal proceedings or litigation arising in connection with the Services will be brought solely in San Francisco County, California, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum.
+These Terms and any action related thereto will be governed by the laws of the State of California without regard to or application of its conflict of law provisions or your state or country of residence. All claims, legal proceedings or litigation arising in connection with the Services will be brought solely in San Francisco County, California, and you consent to the jurisdiction of and venue in such courts and waive any objection as to inconvenient forum. If you are accepting these Terms on behalf of a United States federal government entity that is legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you but instead these Terms and any action related thereto will be will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of California (excluding choice of law).
 
 ### Entire Agreement
 
@@ -107,7 +105,7 @@ These Terms, the Twitter Rules and our Privacy Policy are the entire and exclusi
 
 We may revise these Terms from time to time, the most current version will always be at [twitter.com/tos](/tos). If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
-These Services are operated and provided by Twitter Inc., 539 Bryant Street, Suite 402, San Francisco, CA 94107. If you have any questions about these Terms, please [contact us](/about#contact).
+These Services are operated and provided by Twitter Inc., 795 Folsom Street, Suite 600, San Francisco, CA 94107. If you have any questions about these Terms, please [contact us](/about#contact).
 
-_Effective: September 10th, 2009_
+_Effective: September 18, 2009_
 
