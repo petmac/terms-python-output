@@ -1,4 +1,4 @@
-### Version 3
+### Version 4
 
 These Terms of Service (“ **Terms** ”) govern your access to and use of the services and Twitter’s websites (the “ **Services** ”), and any information, text, graphics, or other materials uploaded, downloaded or appearing on the Services (collectively referred to as “ **Content** ”). Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms. By accessing or using the Services you agree to be bound by these Terms.
 
@@ -14,13 +14,11 @@ The Services that Twitter provides are always evolving and the form and nature o
 
 The Services may include advertisements, which may be targeted to the Content or information on the Services, queries made through the Services, or other information. The types and extent of advertising by Twitter on the Services are subject to change. In consideration for Twitter granting you access to and use of the Services, you agree that Twitter and its third party providers and partners may place such advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others.
 
-Tip We're leaving the door open for exploration in this area but we don't have anything to announce.
-
 ### Privacy
 
 Any information that you provide to Twitter is subject to our [Privacy Policy](/privacy), which governs our collection and use of your information. You understand that through your use of the Services you consent to the collection and use (as set forth in the Privacy Policy) of this information, including the transfer of this information to the United States and/or other countries for storage, processing and use by Twitter. As part of providing you the Services, we may need to provide you with certain communications, such as service announcements and administrative messages. These communications are considered part of the Services and your Twitter account, which you may not be able to opt-out from receiving.
 
-Tip You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the Notices tab of Settings for more.
+Tip You can opt-out of most communications from Twitter including our newsletter, new follower emails, etc. Please see the Notifications tab of Settings for more.
 
 ### Passwords
 
@@ -60,7 +58,7 @@ We reserve the right at all times (but will not have an obligation) to remove or
 
 Tip Twitter does not disclose personally identifying information to third parties except in accordance with our Privacy Policy.
 
-Except as permitted through the Services (or these Terms), you have to use the [Twitter API](http://apiwiki.twitter.com) if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Content or Services.
+Except as permitted through the Services (or these Terms), you have to use the [Twitter API](http://dev.twitter.com) if you want to reproduce, modify, create derivative works, distribute, sell, transfer, publicly display, publicly perform, transmit, or otherwise use the Content or Services.
 
 Tip We encourage and permit broad re-use of Content. The Twitter API exists to enable this.
 
@@ -101,11 +99,11 @@ These Terms and any action related thereto will be governed by the laws of the S
 
 ### Entire Agreement
 
-These Terms, the Twitter Rules and our Privacy Policy are the entire and exclusive agreement between Twitter and you regarding the Services (excluding any services for which you have a separate agreement with Twitter that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Twitter and you regarding the Services.
+These Terms, the Twitter Rules and our Privacy Policy are the entire and exclusive agreement between Twitter and you regarding the Services (excluding any services for which you have a separate agreement with Twitter that is explicitly in addition or in place of these Terms), and these Terms supersede and replace any prior agreements between Twitter and you regarding the Services. Other than members of the group of companies of which Twitter is the parent, no other person or company will be third party beneficiaries to the Terms.
 
 We may revise these Terms from time to time, the most current version will always be at [twitter.com/tos](/tos). If the revision, in our sole discretion, is material we will notify you via an @Twitter update or e-mail to the email associated with your account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.
 
-These Services are operated and provided by Twitter Inc., 795 Folsom Street, Suite 600, San Francisco, CA 94107. If you have any questions about these Terms, please [contact us](/about#contact).
+These Services are operated and provided by Twitter Inc., 795 Folsom Street, Suite 600, San Francisco, CA 94107. If you have any questions about these Terms, please [contact us](/about/contact).
 
-_Effective: September 18, 2009_
+_Effective: November 16, 2010_
 
