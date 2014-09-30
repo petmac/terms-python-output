@@ -44,12 +44,12 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
  [Why Taiwan watches closely](/news/world-asia-29422233)- [Hong Kong protests Live](/news/world-asia-china-29421597)
  [Hong Kong protests Live](/news/world-asia-china-29421597) Live
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
+## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
- [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512) ![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)
+## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
+ [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512) ![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
 
