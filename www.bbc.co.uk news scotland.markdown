@@ -5,26 +5,14 @@ Firearms carried by police officers in Scotland are expected to be covered with 
 
 * * *
 
-## [![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909892_lordsmith.jpg)Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+## [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782)
 
-The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
+Scottish Youth Employment Minister Angela Constance has become the third person to contest the deputy leadership of the SNP.
 
-- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)
-- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)
-- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998)
+## [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782)
+ [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782) ![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)
 
-## [![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909892_lordsmith.jpg)Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
- [![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909892_lordsmith.jpg)Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037) ![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909892_lordsmith.jpg)
-
-The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
-
-- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)
-- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)
-- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998)
-- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)
- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)
- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998)
- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998) Watch
+Scottish Youth Employment Minister Angela Constance has become the third person to contest the deputy leadership of the SNP.
 
 ## [![Google Glass](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909129_glassreuters.jpg)Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
 
@@ -41,6 +29,11 @@ Staff at Edinburgh Airport are using Google Glass headsets to help them deal wit
 - [Google Glass - friend or foe?](/news/technology-21699307)
  [Google Glass - friend or foe?](/news/technology-21699307)
 - 
+## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+
+The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
+
+- 
 ## [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
 
 Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock in East Ayrshire on Sunday night.
@@ -53,8 +46,6 @@ Lawyers acting for a Scot jailed in Pakistan have filed an emergency application
 - 
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
 
-Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" image by standing up for the "silent majority" in the independence debate.
-
 - 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
 
@@ -66,9 +57,6 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 
 - 
 ## [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)
-
-- 
-## [Major blaze at Corpach timber yard](/news/uk-scotland-highlands-islands-29423717)
 
 - 
 ## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
@@ -84,6 +72,16 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 
 - 
 ## [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
+
+- 
+## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+
+The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
+
+## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+ [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+
+The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
 
 - 
 ## [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
@@ -108,14 +106,8 @@ Lawyers acting for a Scot jailed in Pakistan have filed an emergency application
 - 
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
 
-Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" image by standing up for the "silent majority" in the independence debate.
-
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
- [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
-
-Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" image by standing up for the "silent majority" in the independence debate.
-
-- 
+ [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)- 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
@@ -132,10 +124,6 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 
 ## [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)
  [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)- 
-## [Major blaze at Corpach timber yard](/news/uk-scotland-highlands-islands-29423717)
-
-## [Major blaze at Corpach timber yard](/news/uk-scotland-highlands-islands-29423717)
- [Major blaze at Corpach timber yard](/news/uk-scotland-highlands-islands-29423717)- 
 ## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
 
 ## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
