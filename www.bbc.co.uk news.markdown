@@ -6,17 +6,17 @@ David Cameron is to tell the Conservative Party conference there will be more mo
 - [The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
-- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 - [Conservative Party conference Live](/news/live/uk-politics-29422941)
+- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
 - [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
 - [The battle over GP opening](/news/health-29424713)
  [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
- ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
- [Newsnight tests Cameron Watch](/news/uk-politics-29416820) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+ ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
  [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
+ [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
+ [Newsnight tests Cameron Watch](/news/uk-politics-29416820) Watch- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
  [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
 * * *
 
@@ -26,7 +26,7 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 - [Leung: End protest immediately Watch](/news/world-asia-29421913)
 - [Gracie: Uncharted territory](/news/world-asia-china-29422862)
-- [Why Taiwan has close eye](/news/world-asia-29422233)
+- [Why Taiwan watches closely](/news/world-asia-29422233)
 - [Hong Kong protests Live](/news/world-asia-china-29421597)
 
 ## [![A protester writes slogans in calligraphy outside of Hong Kong Government Complex on 30 September 2014](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912079_77910639.jpg)Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
@@ -36,12 +36,12 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 - [Leung: End protest immediately Watch](/news/world-asia-29421913)
 - [Gracie: Uncharted territory](/news/world-asia-china-29422862)
-- [Why Taiwan has close eye](/news/world-asia-29422233)
+- [Why Taiwan watches closely](/news/world-asia-29422233)
 - [Hong Kong protests Live](/news/world-asia-china-29421597)
 - [Leung: End protest immediately Watch](/news/world-asia-29421913)
  [Leung: End protest immediately Watch](/news/world-asia-29421913) Watch- [Gracie: Uncharted territory](/news/world-asia-china-29422862)
- [Gracie: Uncharted territory](/news/world-asia-china-29422862)- [Why Taiwan has close eye](/news/world-asia-29422233)
- [Why Taiwan has close eye](/news/world-asia-29422233)- [Hong Kong protests Live](/news/world-asia-china-29421597)
+ [Gracie: Uncharted territory](/news/world-asia-china-29422862)- [Why Taiwan watches closely](/news/world-asia-29422233)
+ [Why Taiwan watches closely](/news/world-asia-29422233)- [Hong Kong protests Live](/news/world-asia-china-29421597)
  [Hong Kong protests Live](/news/world-asia-china-29421597) Live
 
 ## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)

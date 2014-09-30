@@ -48,9 +48,9 @@ The Scottish economy continues to recover with performance at pre-recession leve
 The oil and gas industry must do more to cut costs while oil prices fall even if it means more job losses, it is claimed.
 
 - 
-## [MSPs urged to protect Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
+## [MSPs seek action over Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
 
-MSPs are urged to back a campaign to protect a stone heart which has been central to the culture of travelling people in Scotland for centuries.
+MSPs are writing to Scotland's heritage agency over calls to protect an ancient monument to the travelling community.
 
 - 
 ## [Call for statutory sex education](/news/uk-scotland-scotland-politics-29409912)
@@ -103,14 +103,14 @@ The oil and gas industry must do more to cut costs while oil prices fall even if
 The oil and gas industry must do more to cut costs while oil prices fall even if it means more job losses, it is claimed.
 
 - 
-## [MSPs urged to protect Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
+## [MSPs seek action over Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
 
-MSPs are urged to back a campaign to protect a stone heart which has been central to the culture of travelling people in Scotland for centuries.
+MSPs are writing to Scotland's heritage agency over calls to protect an ancient monument to the travelling community.
 
-## [MSPs urged to protect Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
- [MSPs urged to protect Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
+## [MSPs seek action over Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
+ [MSPs seek action over Tinkers' Heart](/news/uk-scotland-scotland-politics-29413463)
 
-MSPs are urged to back a campaign to protect a stone heart which has been central to the culture of travelling people in Scotland for centuries.
+MSPs are writing to Scotland's heritage agency over calls to protect an ancient monument to the travelling community.
 
 - 
 ## [Call for statutory sex education](/news/uk-scotland-scotland-politics-29409912)
