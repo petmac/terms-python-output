@@ -71,13 +71,13 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
+## [Hostage's wife makes new mercy plea](/news/uk-29433417)
+
+- 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
-
-- 
-## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -115,6 +115,10 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
  [Boy's life-support should end - judge](/news/uk-29428121)- 
+## [Hostage's wife makes new mercy plea](/news/uk-29433417)
+
+## [Hostage's wife makes new mercy plea](/news/uk-29433417)
+ [Hostage's wife makes new mercy plea](/news/uk-29433417)- 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
@@ -123,10 +127,6 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 ## [UK second quarter growth revised up](/news/business-29422267)
  [UK second quarter growth revised up](/news/business-29422267)- 
-## [Virgin asks for football TV inquiry](/news/business-29426570)
-
-## [Virgin asks for football TV inquiry](/news/business-29426570)
- [Virgin asks for football TV inquiry](/news/business-29426570)- 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)

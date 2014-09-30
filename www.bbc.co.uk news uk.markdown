@@ -54,21 +54,9 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
-
-David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
-
-- 
-## [UK second quarter growth revised up](/news/business-29422267)
-
-- 
-## [Wonga sees profits more than halve](/news/business-29424351)
-
-- 
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
-
-- 
 ## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
+
+A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
 
 - 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
@@ -77,10 +65,22 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
+## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
+
+- 
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+- 
 ## [Ofqual warns on essay cheating](/news/education-29427119)
 
 - 
-## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
+## [Wonga sees profits more than halve](/news/business-29424351)
+
+- 
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+
+- 
+## [UK second quarter growth revised up](/news/business-29422267)
 
 - 
 ## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
@@ -96,32 +96,16 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
 
-David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
- [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
+ ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
 
-David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
-
-## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)- 
-## [Wonga sees profits more than halve](/news/business-29424351)
-
-## [Wonga sees profits more than halve](/news/business-29424351)
- [Wonga sees profits more than halve](/news/business-29424351)- 
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
-
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
- [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)- 
-## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
-
-## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
- ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)- 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
@@ -130,14 +114,30 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
  [Boy's life-support should end - judge](/news/uk-29428121)- 
-## [Ofqual warns on essay cheating](/news/education-29427119)
-
-## [Ofqual warns on essay cheating](/news/education-29427119)
- [Ofqual warns on essay cheating](/news/education-29427119)- 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)- 
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+ [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)- 
+## [Ofqual warns on essay cheating](/news/education-29427119)
+
+## [Ofqual warns on essay cheating](/news/education-29427119)
+ [Ofqual warns on essay cheating](/news/education-29427119)- 
+## [Wonga sees profits more than halve](/news/business-29424351)
+
+## [Wonga sees profits more than halve](/news/business-29424351)
+ [Wonga sees profits more than halve](/news/business-29424351)- 
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+ [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)- 
+## [UK second quarter growth revised up](/news/business-29422267)
+
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)- 
 ## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
 
 ## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
