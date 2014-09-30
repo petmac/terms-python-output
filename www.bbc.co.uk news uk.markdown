@@ -1,141 +1,144 @@
-## [ PM vows seven-day GP access by 2020 ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)](/news/uk-politics-29415929)
- [ PM vows seven-day GP access by 2020 ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)](/news/uk-politics-29415929) ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)
+## [ May: Our values will beat extremists ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)](/news/uk-politics-29414574)
+ [ May: Our values will beat extremists ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)](/news/uk-politics-29414574) ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)
 
-David Cameron is to tell the Conservative Party conference there will be more money to ensure seven-day GP access is rolled out across England by 2020.
+A future Conservative government would seek new powers to ban extremist groups and curb the activities of "harmful" individuals, Theresa May says.
+
+- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
+- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
+- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
+- [Conservative Party conference Live](/news/live/uk-politics-29422941)
+- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
+ [May: Time to act on extremism Watch](/news/uk-politics-29424014) Watch- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
+ [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+ [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+ [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
+ [MPs support UK air strikes against IS](/news/uk-politics-29385123)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
+ [Conservative Party conference Live](/news/live/uk-politics-29422941) Live
+* * *
+
+## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
 - [The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
-- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
-- [Conservative Party conference Live](/news/live/uk-politics-29422941)
-- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
-- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
+
+## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+ [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929) ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)
+
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+
+- [The battle over GP opening](/news/health-29424713)
+- ['This is tried and tested' Watch](/news/uk-politics-29421783)
+- ['We will train 5,000 GPs' Watch](/news/health-29421954)
 - [The battle over GP opening](/news/health-29424713)
  [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
- ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
- [Newsnight tests Cameron Watch](/news/uk-politics-29416820) Watch- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
-* * *
+ ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
- [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512) ![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
+ [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
-## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267)
-
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
-- [Economy tracker: GDP](/news/10613201)
-- [UK jobless rate falls to 2008 low](/news/business-29235655)
-- [UK inflation rate falls to 1.5%](/news/business-29218855)
-- [Peston: So how sick was the UK?](/news/business-29046976)
-
-## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267)
- [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267) ![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)
-
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
-- [Economy tracker: GDP](/news/10613201)
-- [UK jobless rate falls to 2008 low](/news/business-29235655)
-- [UK inflation rate falls to 1.5%](/news/business-29218855)
-- [Peston: So how sick was the UK?](/news/business-29046976)
-- [Economy tracker: GDP](/news/10613201)
- [Economy tracker: GDP](/news/10613201)- [UK jobless rate falls to 2008 low](/news/business-29235655)
- [UK jobless rate falls to 2008 low](/news/business-29235655)- [UK inflation rate falls to 1.5%](/news/business-29218855)
- [UK inflation rate falls to 1.5%](/news/business-29218855)- [Peston: So how sick was the UK?](/news/business-29046976)
- [Peston: So how sick was the UK?](/news/business-29046976)
 - 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
+## [UK second quarter growth revised up](/news/business-29422267)
 
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+
+- 
+## [Virgin asks for football TV inquiry](/news/business-29426570)
+
+Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
 ## [Wonga sees profits more than halve](/news/business-29424351)
-
-Annual profits at payday lender Wonga have fallen by more than half, the company announces.
 
 - 
 ## [Third video of UK hostage released](/news/uk-29420897)
 
 - 
-## [Child abuse report criticises police](/news/uk-england-south-yorkshire-29415897)
+## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 - 
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
+## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
+
+- 
+## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
+
+- 
+## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
-## [Children hit by tooth decay at three](/news/health-29413906)
+## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
 
 - 
-## [Warm weather hits sales at Next](/news/business-29422263)
+## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
 
 - 
-## [UK has driest September 'since 1910'](/news/uk-29419202)
+## [UK second quarter growth revised up](/news/business-29422267)
+
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)
+
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
 - 
-## ['Dirty toilets' row workers walk out](/news/uk-england-leeds-29421853)
+## [Virgin asks for football TV inquiry](/news/business-29426570)
 
-- 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
+Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+## [Virgin asks for football TV inquiry](/news/business-29426570)
+ [Virgin asks for football TV inquiry](/news/business-29426570)
 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
- [May: New extremism powers needed](/news/uk-politics-29414574)
-
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
 ## [Wonga sees profits more than halve](/news/business-29424351)
 
-Annual profits at payday lender Wonga have fallen by more than half, the company announces.
-
 ## [Wonga sees profits more than halve](/news/business-29424351)
- [Wonga sees profits more than halve](/news/business-29424351)
-
-Annual profits at payday lender Wonga have fallen by more than half, the company announces.
-
-- 
+ [Wonga sees profits more than halve](/news/business-29424351)- 
 ## [Third video of UK hostage released](/news/uk-29420897)
 
 ## [Third video of UK hostage released](/news/uk-29420897)
  [Third video of UK hostage released](/news/uk-29420897)- 
-## [Child abuse report criticises police](/news/uk-england-south-yorkshire-29415897)
-
-## [Child abuse report criticises police](/news/uk-england-south-yorkshire-29415897)
- [Child abuse report criticises police](/news/uk-england-south-yorkshire-29415897)- 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
  [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
+## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
+
+## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
+ [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)- 
+## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
+
+## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
+ [Consultant taken off dental register](/news/uk-northern-ireland-29425564)- 
+## [Boy's life-support should end - judge](/news/uk-29428121)
+
+## [Boy's life-support should end - judge](/news/uk-29428121)
+ [Boy's life-support should end - judge](/news/uk-29428121)- 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
-## [Children hit by tooth decay at three](/news/health-29413906)
+## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
 
-## [Children hit by tooth decay at three](/news/health-29413906)
- [Children hit by tooth decay at three](/news/health-29413906)- 
-## [Warm weather hits sales at Next](/news/business-29422263)
+## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
+ [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)- 
+## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
 
-## [Warm weather hits sales at Next](/news/business-29422263)
- [Warm weather hits sales at Next](/news/business-29422263)- 
-## [UK has driest September 'since 1910'](/news/uk-29419202)
-
-## [UK has driest September 'since 1910'](/news/uk-29419202)
- [UK has driest September 'since 1910'](/news/uk-29419202)- 
-## ['Dirty toilets' row workers walk out](/news/uk-england-leeds-29421853)
-
-## ['Dirty toilets' row workers walk out](/news/uk-england-leeds-29421853)
- ['Dirty toilets' row workers walk out](/news/uk-england-leeds-29421853)
+## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
+ ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)

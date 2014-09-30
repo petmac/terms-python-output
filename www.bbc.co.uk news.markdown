@@ -1,62 +1,60 @@
 ## [ PM vows seven-day GP access by 2020 ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)](/news/uk-politics-29415929)
  [ PM vows seven-day GP access by 2020 ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)](/news/uk-politics-29415929) ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)
 
-David Cameron is to tell the Conservative Party conference there will be more money to ensure seven-day GP access is rolled out across England by 2020.
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
 - [The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 - [Conservative Party conference Live](/news/live/uk-politics-29422941)
-- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
-- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
+- [Robinson: PM on benefits and Europe](/news/uk-politics-29429981)
 - [The battle over GP opening](/news/health-29424713)
  [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
  ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
  [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
- [Newsnight tests Cameron Watch](/news/uk-politics-29416820) Watch- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
- [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
+ [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Robinson: PM on benefits and Europe](/news/uk-politics-29429981)
+ [Robinson: PM on benefits and Europe](/news/uk-politics-29429981)
 * * *
 
-## [![A protester writes slogans in calligraphy outside of Hong Kong Government Complex on 30 September 2014](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912079_77910639.jpg)Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
+## [![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)May: Our values will beat extremists](/news/uk-politics-29414574)
 
-Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
+A future Conservative government would seek new powers to ban extremist groups and curb the activities of "harmful" individuals, Theresa May says.
 
-- [Leung: End protest immediately Watch](/news/world-asia-29421913)
-- [Gracie: Uncharted territory](/news/world-asia-china-29422862)
-- [Why Taiwan watches closely](/news/world-asia-29422233)
-- [Hong Kong protests Live](/news/world-asia-china-29421597)
+- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
+- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
+- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 
-## [![A protester writes slogans in calligraphy outside of Hong Kong Government Complex on 30 September 2014](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912079_77910639.jpg)Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
- [![A protester writes slogans in calligraphy outside of Hong Kong Government Complex on 30 September 2014](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912079_77910639.jpg)Hong Kong leader in protest appeal](/news/world-asia-china-29420802) ![A protester writes slogans in calligraphy outside of Hong Kong Government Complex on 30 September 2014](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912079_77910639.jpg)
+## [![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)May: Our values will beat extremists](/news/uk-politics-29414574)
+ [![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)May: Our values will beat extremists](/news/uk-politics-29414574) ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)
 
-Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
+A future Conservative government would seek new powers to ban extremist groups and curb the activities of "harmful" individuals, Theresa May says.
 
-- [Leung: End protest immediately Watch](/news/world-asia-29421913)
-- [Gracie: Uncharted territory](/news/world-asia-china-29422862)
-- [Why Taiwan watches closely](/news/world-asia-29422233)
-- [Hong Kong protests Live](/news/world-asia-china-29421597)
-- [Leung: End protest immediately Watch](/news/world-asia-29421913)
- [Leung: End protest immediately Watch](/news/world-asia-29421913) Watch- [Gracie: Uncharted territory](/news/world-asia-china-29422862)
- [Gracie: Uncharted territory](/news/world-asia-china-29422862)- [Why Taiwan watches closely](/news/world-asia-29422233)
- [Why Taiwan watches closely](/news/world-asia-29422233)- [Hong Kong protests Live](/news/world-asia-china-29421597)
- [Hong Kong protests Live](/news/world-asia-china-29421597) Live
+- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
+- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
+- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
+ [May: Time to act on extremism Watch](/news/uk-politics-29424014) Watch- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
+ [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+ [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+ [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
-## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
- [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512) ![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77912000/jpg/_77912571_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
+ [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
 - 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
+## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
 
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
@@ -64,7 +62,7 @@ Home Secretary Theresa May is to tell the Conservative Party conference a future
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
 - 
-## [Annual house price growth 'slows'](/news/business-29422216)
+## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -79,20 +77,23 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
-## [Ireland gave 'state aid' to Apple](/news/business-29423244)
+## [eBay to split off PayPal business](/news/business-29423251)
 
 - 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
 
 - 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
+## [Virgin asks for football TV inquiry](/news/business-29426570)
 
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+- 
+## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
 
-## [May: New extremism powers needed](/news/uk-politics-29414574)
- [May: New extremism powers needed](/news/uk-politics-29414574)
+Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
-Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
+## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
+ [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
+
+Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
@@ -105,10 +106,10 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
 - 
-## [Annual house price growth 'slows'](/news/business-29422216)
+## [Boy's life-support should end - judge](/news/uk-29428121)
 
-## [Annual house price growth 'slows'](/news/business-29422216)
- [Annual house price growth 'slows'](/news/business-29422216)- 
+## [Boy's life-support should end - judge](/news/uk-29428121)
+ [Boy's life-support should end - judge](/news/uk-29428121)- 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -125,11 +126,15 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
-## [Ireland gave 'state aid' to Apple](/news/business-29423244)
+## [eBay to split off PayPal business](/news/business-29423251)
 
-## [Ireland gave 'state aid' to Apple](/news/business-29423244)
- [Ireland gave 'state aid' to Apple](/news/business-29423244)- 
+## [eBay to split off PayPal business](/news/business-29423251)
+ [eBay to split off PayPal business](/news/business-29423251)- 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
- [UK has driest September 'since 1910'](/news/uk-29419202)
+ [UK has driest September 'since 1910'](/news/uk-29419202)- 
+## [Virgin asks for football TV inquiry](/news/business-29426570)
+
+## [Virgin asks for football TV inquiry](/news/business-29426570)
+ [Virgin asks for football TV inquiry](/news/business-29426570)
