@@ -39,12 +39,12 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
  ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
- [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
+ [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 

@@ -42,12 +42,12 @@ A future Conservative government would seek new powers to ban extremist groups a
  [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
  [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512)
- [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Child porn probe teacher found dead](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
+## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
+ [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
 
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
@@ -57,9 +57,12 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [eBay to split off PayPal business](/news/business-29423251)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
+
+- 
+## [UK second quarter growth revised up](/news/business-29422267)
 
 - 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
@@ -71,13 +74,7 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 - 
-## [World wildlife populations 'plummet'](/news/science-environment-29418983)
-
-- 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
-
-- 
-## [eBay to split off PayPal business](/news/business-29423251)
 
 - 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
@@ -96,16 +93,20 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [eBay to split off PayPal business](/news/business-29423251)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
 
-## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)
+## [eBay to split off PayPal business](/news/business-29423251)
+ [eBay to split off PayPal business](/news/business-29423251)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
 
 - 
+## [UK second quarter growth revised up](/news/business-29422267)
+
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)- 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
@@ -118,18 +119,10 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
  [Afghans sign deal to keep US troops](/news/world-asia-29415170)- 
-## [World wildlife populations 'plummet'](/news/science-environment-29418983)
-
-## [World wildlife populations 'plummet'](/news/science-environment-29418983)
- [World wildlife populations 'plummet'](/news/science-environment-29418983)- 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
-## [eBay to split off PayPal business](/news/business-29423251)
-
-## [eBay to split off PayPal business](/news/business-29423251)
- [eBay to split off PayPal business](/news/business-29423251)- 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
