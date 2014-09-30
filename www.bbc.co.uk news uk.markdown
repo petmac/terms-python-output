@@ -61,8 +61,6 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
 - 
 ## [Wonga sees profits more than halve](/news/business-29424351)
 
@@ -71,9 +69,6 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 - 
 ## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
-
-- 
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 - 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
@@ -88,7 +83,7 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
-## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
+## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
 
 - 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
@@ -113,14 +108,8 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
 ## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)
-
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
-- 
+ [UK second quarter growth revised up](/news/business-29422267)- 
 ## [Wonga sees profits more than halve](/news/business-29424351)
 
 ## [Wonga sees profits more than halve](/news/business-29424351)
@@ -133,10 +122,6 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 ## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
  ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)- 
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
-
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
- [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
@@ -153,7 +138,7 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)- 
-## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
+## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
 
-## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
- ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
+## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
+ [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)

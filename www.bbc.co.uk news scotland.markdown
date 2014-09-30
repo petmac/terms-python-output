@@ -18,25 +18,16 @@ Scottish Youth Employment Minister Angela Constance has become the third person 
 
 Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
 
-- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
-- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
-- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
-- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
 
 ## [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752)
  [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752) ![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)
 
 Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
 
-- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
-- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
-- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
-- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
-- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
+- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
+ [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
 - 
 ## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
 
