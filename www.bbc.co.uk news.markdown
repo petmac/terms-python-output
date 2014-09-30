@@ -52,14 +52,17 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
 - 
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+
+- 
 ## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
 
 Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop their campaign, as crowds bring areas to a standstill.
 
 - 
 ## [eBay to split off PayPal business](/news/business-29423251)
-
-The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
 
 - 
 ## [UK second quarter growth revised up](/news/business-29422267)
@@ -71,9 +74,6 @@ The online auction site eBay is planning to split off its payments system PayPal
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 - 
-## [UK has driest September 'since 1910'](/news/uk-29419202)
-
-- 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 - 
@@ -81,6 +81,16 @@ The online auction site eBay is planning to split off its payments system PayPal
 
 - 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+
+- 
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+ ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
 - 
 ## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
@@ -95,14 +105,8 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 - 
 ## [eBay to split off PayPal business](/news/business-29423251)
 
-The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
-
 ## [eBay to split off PayPal business](/news/business-29423251)
- [eBay to split off PayPal business](/news/business-29423251)
-
-The online auction site eBay is planning to split off its payments system PayPal into a separate company next year.
-
-- 
+ [eBay to split off PayPal business](/news/business-29423251)- 
 ## [UK second quarter growth revised up](/news/business-29422267)
 
 ## [UK second quarter growth revised up](/news/business-29422267)
@@ -115,10 +119,6 @@ The online auction site eBay is planning to split off its payments system PayPal
 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
  [Afghans sign deal to keep US troops](/news/world-asia-29415170)- 
-## [UK has driest September 'since 1910'](/news/uk-29419202)
-
-## [UK has driest September 'since 1910'](/news/uk-29419202)
- [UK has driest September 'since 1910'](/news/uk-29419202)- 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)

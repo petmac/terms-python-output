@@ -49,9 +49,9 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
 - 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
@@ -59,10 +59,10 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
-## [Wonga sees profits more than halve](/news/business-29424351)
+## [UK second quarter growth revised up](/news/business-29422267)
 
 - 
-## [Third video of UK hostage released](/news/uk-29420897)
+## [Wonga sees profits more than halve](/news/business-29424351)
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -86,14 +86,14 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 ## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
-## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)
+## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+ ['No panic' in RAF Iraq strikes](/news/uk-29431058)
 
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
 - 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
@@ -106,14 +106,14 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
+## [UK second quarter growth revised up](/news/business-29422267)
+
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)- 
 ## [Wonga sees profits more than halve](/news/business-29424351)
 
 ## [Wonga sees profits more than halve](/news/business-29424351)
  [Wonga sees profits more than halve](/news/business-29424351)- 
-## [Third video of UK hostage released](/news/uk-29420897)
-
-## [Third video of UK hostage released](/news/uk-29420897)
- [Third video of UK hostage released](/news/uk-29420897)- 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
