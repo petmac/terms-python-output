@@ -56,9 +56,6 @@ Lawyers acting for a Scot jailed in Pakistan have filed an emergency application
 Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" image by standing up for the "silent majority" in the independence debate.
 
 - 
-## [Oil industry 'needs to cut costs'](/news/uk-scotland-scotland-business-29424188)
-
-- 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
 
 - 
@@ -78,6 +75,9 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 
 - 
 ## [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)
+
+- 
+## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
 
 - 
 ## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)
@@ -116,10 +116,6 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" image by standing up for the "silent majority" in the independence debate.
 
 - 
-## [Oil industry 'needs to cut costs'](/news/uk-scotland-scotland-business-29424188)
-
-## [Oil industry 'needs to cut costs'](/news/uk-scotland-scotland-business-29424188)
- [Oil industry 'needs to cut costs'](/news/uk-scotland-scotland-business-29424188)- 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
@@ -148,6 +144,10 @@ Scottish Conservative leader Ruth Davidson says the party has shed its "toxic" i
 
 ## [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)
  [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)- 
+## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
+
+## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
+ [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)- 
 ## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)
 
 ## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)

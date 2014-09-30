@@ -22,7 +22,7 @@ A future Conservative government would seek new powers to ban extremist groups a
 
 David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
-- [The battle over GP opening](/news/health-29424713)
+- [Analysis: The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
 
@@ -31,11 +31,11 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 
 David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
-- [The battle over GP opening](/news/health-29424713)
+- [Analysis: The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
-- [The battle over GP opening](/news/health-29424713)
- [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
+- [Analysis: The battle over GP opening](/news/health-29424713)
+ [Analysis: The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
  ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch
 
@@ -77,7 +77,7 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
 ## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
@@ -130,10 +130,10 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
  [Boy's life-support should end - judge](/news/uk-29428121)- 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
- [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
+## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
+ [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)- 
 ## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
 
 ## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)

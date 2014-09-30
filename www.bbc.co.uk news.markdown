@@ -22,7 +22,7 @@ A future Conservative government would seek new powers to ban extremist groups a
 
 David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
-- [The battle over GP opening](/news/health-29424713)
+- [Analysis: The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
@@ -32,12 +32,12 @@ David Cameron announces plans to ensure seven-day GP access is rolled out across
 
 David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
 
-- [The battle over GP opening](/news/health-29424713)
+- [Analysis: The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
-- [The battle over GP opening](/news/health-29424713)
- [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
+- [Analysis: The battle over GP opening](/news/health-29424713)
+ [Analysis: The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
  ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
  [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
@@ -52,9 +52,9 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
 - 
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+## [Kurds fight IS on Iraq-Syria border](/news/world-middle-east-29429971)
 
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+Heavy fighting is reported on both sides of a key border crossing between Iraq and Syria, where Kurdish forces are battling Islamic State militants.
 
 - 
 ## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
@@ -65,7 +65,7 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 ## [eBay to split off PayPal business](/news/business-29423251)
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
 
 - 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
@@ -74,23 +74,23 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 - 
+## [UK second quarter growth revised up](/news/business-29422267)
+
+- 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 - 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+## [Kurds fight IS on Iraq-Syria border](/news/world-middle-east-29429971)
 
-- 
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
+Heavy fighting is reported on both sides of a key border crossing between Iraq and Syria, where Kurdish forces are battling Islamic State militants.
 
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+## [Kurds fight IS on Iraq-Syria border](/news/world-middle-east-29429971)
+ [Kurds fight IS on Iraq-Syria border](/news/world-middle-east-29429971)
 
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
- ['No panic' in RAF Iraq strikes](/news/uk-29431058)
-
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+Heavy fighting is reported on both sides of a key border crossing between Iraq and Syria, where Kurdish forces are battling Islamic State militants.
 
 - 
 ## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
@@ -107,10 +107,10 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 ## [eBay to split off PayPal business](/news/business-29423251)
  [eBay to split off PayPal business](/news/business-29423251)- 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
 
-## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)- 
+## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
+ [White House break-in 'unacceptable'](/news/world-us-canada-29431686)- 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
@@ -119,6 +119,10 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
  [Afghans sign deal to keep US troops](/news/world-asia-29415170)- 
+## [UK second quarter growth revised up](/news/business-29422267)
+
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)- 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
@@ -126,8 +130,4 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
- [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
-
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
- [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+ [MP sting investigation 'urgent'](/news/uk-politics-29421517)
