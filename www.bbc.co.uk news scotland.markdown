@@ -1,7 +1,7 @@
-## [ Move to cover up police firearms ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863)
- [ Move to cover up police firearms ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863) ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)
+## [ Police to review firearms policy ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863)
+ [ Police to review firearms policy ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863) ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)
 
-Firearms carried by police officers in Scotland are expected to be covered with a new type of holster to make them less visible to the public.
+The controversial policy allowing police firearms officers to routinely carry guns will be reviewed by the national force, the BBC learns.
 
 * * *
 
