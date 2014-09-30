@@ -5,17 +5,17 @@ A future Conservative government would seek new powers to ban extremist groups a
 
 - [May: Time to act on extremism Watch](/news/uk-politics-29424014)
 - [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
-- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Easton: What is extreme?](/news/uk-29427298)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
-- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
 - [Conservative Party conference Live](/news/live/uk-politics-29422941)
+- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
 - [May: Time to act on extremism Watch](/news/uk-politics-29424014)
  [May: Time to act on extremism Watch](/news/uk-politics-29424014) Watch- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
- [MPs support UK air strikes against IS](/news/uk-politics-29385123)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live
+ [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Easton: What is extreme?](/news/uk-29427298)
+ [Easton: What is extreme?](/news/uk-29427298)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+ [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
+ [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+ [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
 * * *
 
 ## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
@@ -68,19 +68,19 @@ The online auction site eBay is planning to split off its payments system PayPal
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
-
-- 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
-
-- 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
 
 - 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
+
+- 
+## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
+
+- 
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
 ## [Hong Kong leader in protest appeal](/news/world-asia-china-29420802)
@@ -111,18 +111,10 @@ The online auction site eBay is planning to split off its payments system PayPal
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
  [Boy's life-support should end - judge](/news/uk-29428121)- 
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
-
-## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
- [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 ## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
  [Afghans sign deal to keep US troops](/news/world-asia-29415170)- 
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
-
-## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
- [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
 
 ## [UK has driest September 'since 1910'](/news/uk-29419202)
@@ -130,4 +122,12 @@ The online auction site eBay is planning to split off its payments system PayPal
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
- [Virgin asks for football TV inquiry](/news/business-29426570)
+ [Virgin asks for football TV inquiry](/news/business-29426570)- 
+## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
+
+## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
+ [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+ [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)

@@ -5,17 +5,17 @@ A future Conservative government would seek new powers to ban extremist groups a
 
 - [May: Time to act on extremism Watch](/news/uk-politics-29424014)
 - [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
-- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Easton: What is extreme?](/news/uk-29427298)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
-- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
 - [Conservative Party conference Live](/news/live/uk-politics-29422941)
+- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
 - [May: Time to act on extremism Watch](/news/uk-politics-29424014)
  [May: Time to act on extremism Watch](/news/uk-politics-29424014) Watch- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [MPs support UK air strikes against IS](/news/uk-politics-29385123)
- [MPs support UK air strikes against IS](/news/uk-politics-29385123)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live
+ [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Easton: What is extreme?](/news/uk-29427298)
+ [Easton: What is extreme?](/news/uk-29427298)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
+ [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
+ [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+ [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
 * * *
 
 ## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
