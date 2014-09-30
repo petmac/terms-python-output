@@ -71,6 +71,9 @@ MSPs are writing to Scotland's heritage agency over calls to protect an ancient 
 ## [Grant for new vision-loss detector](/news/uk-scotland-glasgow-west-29424345)
 
 - 
+## [Warm homes initiative announced](/news/uk-scotland-29424118)
+
+- 
 ## [Human trafficking figures revealed](/news/uk-scotland-29417227)
 
 - 
@@ -78,9 +81,6 @@ MSPs are writing to Scotland's heritage agency over calls to protect an ancient 
 
 - 
 ## [New planes secured for isles route](/news/uk-scotland-highlands-islands-29423723)
-
-- 
-## [Scottish economy shrugs off slump](/news/uk-scotland-scotland-business-29417224)
 
 - 
 ## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
@@ -137,6 +137,10 @@ MSPs are writing to Scotland's heritage agency over calls to protect an ancient 
 
 ## [Grant for new vision-loss detector](/news/uk-scotland-glasgow-west-29424345)
  [Grant for new vision-loss detector](/news/uk-scotland-glasgow-west-29424345)- 
+## [Warm homes initiative announced](/news/uk-scotland-29424118)
+
+## [Warm homes initiative announced](/news/uk-scotland-29424118)
+ [Warm homes initiative announced](/news/uk-scotland-29424118)- 
 ## [Human trafficking figures revealed](/news/uk-scotland-29417227)
 
 ## [Human trafficking figures revealed](/news/uk-scotland-29417227)
@@ -148,8 +152,4 @@ MSPs are writing to Scotland's heritage agency over calls to protect an ancient 
 ## [New planes secured for isles route](/news/uk-scotland-highlands-islands-29423723)
 
 ## [New planes secured for isles route](/news/uk-scotland-highlands-islands-29423723)
- [New planes secured for isles route](/news/uk-scotland-highlands-islands-29423723)- 
-## [Scottish economy shrugs off slump](/news/uk-scotland-scotland-business-29417224)
-
-## [Scottish economy shrugs off slump](/news/uk-scotland-scotland-business-29417224)
- [Scottish economy shrugs off slump](/news/uk-scotland-scotland-business-29417224)
+ [New planes secured for isles route](/news/uk-scotland-highlands-islands-29423723)
