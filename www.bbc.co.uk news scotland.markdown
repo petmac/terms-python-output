@@ -14,20 +14,34 @@ Scottish Youth Employment Minister Angela Constance has become the third person 
 
 Scottish Youth Employment Minister Angela Constance has become the third person to contest the deputy leadership of the SNP.
 
-## [![Google Glass](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909129_glassreuters.jpg)Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
+## [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752)
+
+Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
+
+- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
+- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
+- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
+- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+
+## [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752)
+ [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752) ![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)
+
+Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
+
+- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
+- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
+- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
+- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+- [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)
+ [Whyte hands over castle to bank](/news/uk-scotland-highlands-islands-26962531)- [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)
+ [Whyte loses £18m Ticketus battle](/news/uk-scotland-scotland-business-22093410)- [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)
+ [Whyte court evidence 'unreliable'](/news/uk-scotland-glasgow-west-16984191)- [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+ [Rangers confirms Craig Whyte ban](/news/uk-scotland-glasgow-west-15976000)
+- 
+## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
 
 Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
 
-- [Google Glass - friend or foe?](/news/technology-21699307)
-
-## [![Google Glass](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909129_glassreuters.jpg)Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
- [![Google Glass](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909129_glassreuters.jpg)Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349) ![Google Glass](http://news.bbcimg.co.uk/media/images/77909000/jpg/_77909129_glassreuters.jpg)
-
-Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
-
-- [Google Glass - friend or foe?](/news/technology-21699307)
-- [Google Glass - friend or foe?](/news/technology-21699307)
- [Google Glass - friend or foe?](/news/technology-21699307)
 - 
 ## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
 
@@ -41,13 +55,8 @@ Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock 
 - 
 ## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
 
-Lawyers acting for a Scot jailed in Pakistan have filed an emergency application to prevent his return to the prison where he was shot.
-
 - 
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
-
-- 
-## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
 
 - 
 ## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)
@@ -74,6 +83,16 @@ Lawyers acting for a Scot jailed in Pakistan have filed an emergency application
 ## [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
 
 - 
+## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
+
+Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
+
+## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
+ [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
+
+Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
+
+- 
 ## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
 
 The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
@@ -96,22 +115,12 @@ Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock 
 - 
 ## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
 
-Lawyers acting for a Scot jailed in Pakistan have filed an emergency application to prevent his return to the prison where he was shot.
-
 ## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
- [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
-
-Lawyers acting for a Scot jailed in Pakistan have filed an emergency application to prevent his return to the prison where he was shot.
-
-- 
+ [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)- 
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
 
 ## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
  [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)- 
-## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
-
-## [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)
- [Health boards miss cancer target](/news/uk-scotland-scotland-politics-29426497)- 
 ## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)
 
 ## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)

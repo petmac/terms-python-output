@@ -18,26 +18,26 @@ A future Conservative government would seek new powers to ban extremist groups a
  [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
 * * *
 
-## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+## [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058)
 
-David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
-- [Analysis: The battle over GP opening](/news/health-29424713)
-- ['This is tried and tested' Watch](/news/uk-politics-29421783)
-- ['We will train 5,000 GPs' Watch](/news/health-29421954)
+- [UK warplanes 'struggle with targets'](/news/uk-29422469)
+- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
+- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
 
-## [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
- [![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)PM vows seven-day GP access by 2020](/news/uk-politics-29415929) ![A doctor writes a prescription](http://news.bbcimg.co.uk/media/images/77902000/jpg/_77902633_70210870.jpg)
+## [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058)
+ [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058) ![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)
 
-David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
-- [Analysis: The battle over GP opening](/news/health-29424713)
-- ['This is tried and tested' Watch](/news/uk-politics-29421783)
-- ['We will train 5,000 GPs' Watch](/news/health-29421954)
-- [Analysis: The battle over GP opening](/news/health-29424713)
- [Analysis: The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
- ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
- ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch
+- [UK warplanes 'struggle with targets'](/news/uk-29422469)
+- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
+- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
+- [UK warplanes 'struggle with targets'](/news/uk-29422469)
+ [UK warplanes 'struggle with targets'](/news/uk-29422469)- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
+ [The battle to protect Baghdad Watch](/news/world-middle-east-29416992) Watch- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
+ [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
 
 ## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
 
@@ -49,20 +49,28 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
 
 - 
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
-
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
-
-- 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
 
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+
+- 
 ## [UK second quarter growth revised up](/news/business-29422267)
+
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
 - 
 ## [Wonga sees profits more than halve](/news/business-29424351)
+
+- 
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+
+- 
+## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -71,29 +79,16 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
 
 - 
-## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
+## [Boy's life-support should end - judge](/news/uk-29428121)
 
 - 
-## [Boy's life-support should end - judge](/news/uk-29428121)
+## [Ofqual warns on essay cheating](/news/education-29427119)
 
 - 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
-## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
-
-- 
 ## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
-
-- 
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
-
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
-
-## ['No panic' in RAF Iraq strikes](/news/uk-29431058)
- ['No panic' in RAF Iraq strikes](/news/uk-29431058)
-
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
 
 - 
 ## [Virgin asks for football TV inquiry](/news/business-29426570)
@@ -106,14 +101,38 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
 
 - 
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+
+## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+ [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+
+David Cameron announces plans to ensure seven-day GP access is rolled out across England by 2020.
+
+- 
 ## [UK second quarter growth revised up](/news/business-29422267)
 
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+
 ## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)- 
+ [UK second quarter growth revised up](/news/business-29422267)
+
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+
+- 
 ## [Wonga sees profits more than halve](/news/business-29424351)
 
 ## [Wonga sees profits more than halve](/news/business-29424351)
  [Wonga sees profits more than halve](/news/business-29424351)- 
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+
+## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+ [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)- 
+## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
+
+## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
+ ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)- 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
@@ -122,22 +141,18 @@ Virgin Media asks Ofcom to investigate the way that the Premier League sells its
 
 ## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
  [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)- 
-## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
-
-## [Consultant taken off dental register](/news/uk-northern-ireland-29425564)
- [Consultant taken off dental register](/news/uk-northern-ireland-29425564)- 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
  [Boy's life-support should end - judge](/news/uk-29428121)- 
+## [Ofqual warns on essay cheating](/news/education-29427119)
+
+## [Ofqual warns on essay cheating](/news/education-29427119)
+ [Ofqual warns on essay cheating](/news/education-29427119)- 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
 
 ## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
  [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)- 
-## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
-
-## [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)
- [Move to cover up Police Scotland firearms](/news/uk-scotland-scotland-politics-29426863)- 
 ## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
 
 ## ['Dirty toilets' workers end strike](/news/uk-england-leeds-29421853)
