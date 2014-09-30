@@ -3,13 +3,15 @@
 
 David Cameron is to tell the Conservative Party conference there will be more money to ensure seven-day GP access is rolled out across England by 2020.
 
+- [The battle over GP opening](/news/health-29424713)
 - ['This is tried and tested' Watch](/news/uk-politics-29421783)
 - ['We will train 5,000 GPs' Watch](/news/health-29421954)
 - [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
 - [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
 - [Conservative Party conference Live](/news/live/uk-politics-29422941)
 - [Easton: Who'd be hit by welfare freeze](/news/uk-29416370)
-- ['This is tried and tested' Watch](/news/uk-politics-29421783)
+- [The battle over GP opening](/news/health-29424713)
+ [The battle over GP opening](/news/health-29424713)- ['This is tried and tested' Watch](/news/uk-politics-29421783)
  ['This is tried and tested' Watch](/news/uk-politics-29421783) Watch- ['We will train 5,000 GPs' Watch](/news/health-29421954)
  ['We will train 5,000 GPs' Watch](/news/health-29421954) Watch- [Newsnight tests Cameron Watch](/news/uk-politics-29416820)
  [Newsnight tests Cameron Watch](/news/uk-politics-29416820) Watch- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
@@ -20,36 +22,36 @@ David Cameron is to tell the Conservative Party conference there will be more mo
 
 ## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
 
-Indecent images of pupils are found on the computer of the deputy head teacher of an Essex school who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
 
 ## [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512)
  [![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)Pupils' images on teacher's computer](/news/uk-england-29426512) ![Thorpe Hall School](http://news.bbcimg.co.uk/media/images/77911000/jpg/_77911289_ff19849d-b018-46ac-a3b9-1281b4883877.jpg)
 
-Indecent images of pupils are found on the computer of the deputy head teacher of an Essex school who was recently found dead.
+Indecent images of pupils are found on the computer of an Essex deputy head teacher who was recently found dead.
 
-## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK GDP grew 0.9% in second quarter](/news/business-29422267)
-
-UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
-
-- [UK jobless rate falls to 2008 low](/news/business-29235655)
-- [UK inflation rate falls to 1.5%](/news/business-29218855)
-- [Peston: So how sick was the UK?](/news/business-29046976)
-- [UK recovery 'stronger than thought'](/news/business-29044202)
-
-## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK GDP grew 0.9% in second quarter](/news/business-29422267)
- [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK GDP grew 0.9% in second quarter](/news/business-29422267) ![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)
+## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267)
 
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
+- [Economy tracker: GDP](/news/10613201)
 - [UK jobless rate falls to 2008 low](/news/business-29235655)
 - [UK inflation rate falls to 1.5%](/news/business-29218855)
 - [Peston: So how sick was the UK?](/news/business-29046976)
-- [UK recovery 'stronger than thought'](/news/business-29044202)
+
+## [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267)
+ [![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)UK second quarter growth revised up](/news/business-29422267) ![High rise block being built](http://news.bbcimg.co.uk/media/images/77908000/jpg/_77908751_hi021580871.jpg)
+
+UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
+
+- [Economy tracker: GDP](/news/10613201)
 - [UK jobless rate falls to 2008 low](/news/business-29235655)
+- [UK inflation rate falls to 1.5%](/news/business-29218855)
+- [Peston: So how sick was the UK?](/news/business-29046976)
+- [Economy tracker: GDP](/news/10613201)
+ [Economy tracker: GDP](/news/10613201)- [UK jobless rate falls to 2008 low](/news/business-29235655)
  [UK jobless rate falls to 2008 low](/news/business-29235655)- [UK inflation rate falls to 1.5%](/news/business-29218855)
  [UK inflation rate falls to 1.5%](/news/business-29218855)- [Peston: So how sick was the UK?](/news/business-29046976)
- [Peston: So how sick was the UK?](/news/business-29046976)- [UK recovery 'stronger than thought'](/news/business-29044202)
- [UK recovery 'stronger than thought'](/news/business-29044202)
+ [Peston: So how sick was the UK?](/news/business-29046976)
 - 
 ## [May: New extremism powers needed](/news/uk-politics-29414574)
 
@@ -68,6 +70,9 @@ Annual profits at payday lender Wonga have fallen by more than half, the company
 
 - 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
+
+- 
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 - 
 ## [Children hit by tooth decay at three](/news/health-29413906)
@@ -114,6 +119,10 @@ Annual profits at payday lender Wonga have fallen by more than half, the company
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
  [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+
+## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
+ [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)- 
 ## [Children hit by tooth decay at three](/news/health-29413906)
 
 ## [Children hit by tooth decay at three](/news/health-29413906)

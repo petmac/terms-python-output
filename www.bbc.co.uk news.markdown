@@ -59,7 +59,7 @@ Indecent images of pupils are found on the computer of an Essex deputy head teac
 Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
 
 - 
-## [UK GDP grew 0.9% in second quarter](/news/business-29422267)
+## [UK second quarter growth revised up](/news/business-29422267)
 
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
@@ -70,10 +70,10 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
 
 - 
-## [World wildlife populations 'plummet'](/news/science-environment-29418983)
+## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
 
 - 
-## [Third video of UK hostage released](/news/uk-29420897)
+## [World wildlife populations 'plummet'](/news/science-environment-29418983)
 
 - 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
@@ -95,12 +95,12 @@ Home Secretary Theresa May is to tell the Conservative Party conference a future
 Home Secretary Theresa May is to tell the Conservative Party conference a future Tory government will seek new powers to ban extremist groups.
 
 - 
-## [UK GDP grew 0.9% in second quarter](/news/business-29422267)
+## [UK second quarter growth revised up](/news/business-29422267)
 
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
-## [UK GDP grew 0.9% in second quarter](/news/business-29422267)
- [UK GDP grew 0.9% in second quarter](/news/business-29422267)
+## [UK second quarter growth revised up](/news/business-29422267)
+ [UK second quarter growth revised up](/news/business-29422267)
 
 UK economic growth has been revised up to 0.9% for the second quarter of the year by the Office for National Statistics.
 
@@ -113,14 +113,14 @@ UK economic growth has been revised up to 0.9% for the second quarter of the yea
 
 ## [MP sting investigation 'urgent'](/news/uk-politics-29421517)
  [MP sting investigation 'urgent'](/news/uk-politics-29421517)- 
+## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
+
+## [Afghans sign deal to keep US troops](/news/world-asia-29415170)
+ [Afghans sign deal to keep US troops](/news/world-asia-29415170)- 
 ## [World wildlife populations 'plummet'](/news/science-environment-29418983)
 
 ## [World wildlife populations 'plummet'](/news/science-environment-29418983)
  [World wildlife populations 'plummet'](/news/science-environment-29418983)- 
-## [Third video of UK hostage released](/news/uk-29420897)
-
-## [Third video of UK hostage released](/news/uk-29420897)
- [Third video of UK hostage released](/news/uk-29420897)- 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
 
 ## [Nuns killed in PSNI vehicle crash](/news/uk-northern-ireland-29425566)
