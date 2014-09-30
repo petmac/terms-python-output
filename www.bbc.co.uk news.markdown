@@ -65,7 +65,7 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 ## [eBay to split off PayPal business](/news/business-29423251)
 
 - 
-## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
+## [White House security plan 'failed'](/news/world-us-canada-29431686)
 
 - 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
@@ -107,10 +107,10 @@ Hong Kong leader CY Leung urges pro-democracy protesters to "immediately" stop t
 
 ## [eBay to split off PayPal business](/news/business-29423251)
  [eBay to split off PayPal business](/news/business-29423251)- 
-## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
+## [White House security plan 'failed'](/news/world-us-canada-29431686)
 
-## [White House break-in 'unacceptable'](/news/world-us-canada-29431686)
- [White House break-in 'unacceptable'](/news/world-us-canada-29431686)- 
+## [White House security plan 'failed'](/news/world-us-canada-29431686)
+ [White House security plan 'failed'](/news/world-us-canada-29431686)- 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
 
 ## [Boy's life-support should end - judge](/news/uk-29428121)
