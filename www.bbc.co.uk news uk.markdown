@@ -1,144 +1,168 @@
-## [ May: Our values will beat extremists ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)](/news/uk-politics-29414574)
- [ May: Our values will beat extremists ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)](/news/uk-politics-29414574) ![Theresa May](http://news.bbcimg.co.uk/media/images/77914000/jpg/_77914642_77909393.jpg)
+## [ No Ebola screening for UK arrivals ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)](/news/uk-29518342)
+ [ No Ebola screening for UK arrivals ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)](/news/uk-29518342) ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)
 
-A future Conservative government would seek new powers to ban extremist groups and curb the activities of "harmful" individuals, Theresa May says.
+There are no plans to introduce Ebola screening for those arriving in the UK, Public Health England says.
 
-- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
-- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
-- [Easton: What is extreme?](/news/uk-29427298)
-- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
-- [Conservative Party conference Live](/news/live/uk-politics-29422941)
-- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
-- [May: Time to act on extremism Watch](/news/uk-politics-29424014)
- [May: Time to act on extremism Watch](/news/uk-politics-29424014) Watch- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)
- [Analysis: Can extremism plan work?](/news/uk-politics-29427807)- [Easton: What is extreme?](/news/uk-29427298)
- [Easton: What is extreme?](/news/uk-29427298)- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)
- [Special report: Party conferences 2014](http://www.bbc.co.uk/news/uk-politics-29308327)- [Conservative Party conference Live](/news/live/uk-politics-29422941)
- [Conservative Party conference Live](/news/live/uk-politics-29422941) Live- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
- [Girl, 15, 'may be heading to Syria'](/news/uk-england-bristol-29415205)
+- [Border Force guidance 'clear' Watch](/news/health-29519688)
+- [Ebola virus: Busting the myths](/news/health-29311659)
+- [In 60 seconds: What is Ebola? Watch](/news/health-28105531)
+- [BA suspends flights amid Ebola alert](/news/uk-28663833)
+- [Border Force guidance 'clear' Watch](/news/health-29519688)
+ [Border Force guidance 'clear' Watch](/news/health-29519688) Watch- [Ebola virus: Busting the myths](/news/health-29311659)
+ [Ebola virus: Busting the myths](/news/health-29311659)- [In 60 seconds: What is Ebola? Watch](/news/health-28105531)
+ [In 60 seconds: What is Ebola? Watch](/news/health-28105531) Watch- [BA suspends flights amid Ebola alert](/news/uk-28663833)
+ [BA suspends flights amid Ebola alert](/news/uk-28663833)
 * * *
 
-## [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058)
+## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
 
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
 
-- [UK warplanes 'struggle with targets'](/news/uk-29422469)
-- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
-- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
+## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
+ [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976) ![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)
 
-## [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058)
- [![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)'No panic' in RAF Iraq strikes](/news/uk-29431058) ![Philip Hammond and Andrew Neil](http://news.bbcimg.co.uk/media/images/77917000/jpg/_77917081_untitled111.jpg)
+Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
 
-Britain will not be "panicked" into dropping bombs in Iraq, foreign secretary Philip Hammond says, as RAF jets return without firing weapons.
+## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
 
-- [UK warplanes 'struggle with targets'](/news/uk-29422469)
-- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
-- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
-- [UK warplanes 'struggle with targets'](/news/uk-29422469)
- [UK warplanes 'struggle with targets'](/news/uk-29422469)- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992)
- [The battle to protect Baghdad Watch](/news/world-middle-east-29416992) Watch- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
- [Iraq strikes: Symbolism or precursor?](/news/uk-politics-29386645)
+The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
+- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
+- [Airport expansion: The options](/news/uk-19570653)
+- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
+## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
+ [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800) ![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)
 
-## [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512)
- [![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)Dead teacher filmed boys changing](/news/uk-england-29426512) ![Martin Goldberg](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913521_327-1.jpg)
+The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
 
-Indecent images of pupils are found on the computer of an Essex deputy head teacher who was found dead after he was visited by police.
+- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
+- [Airport expansion: The options](/news/uk-19570653)
+- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
+- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
+ [Liberal Democrat conference Live](/news/live/uk-politics-29518585) Live- [Airport expansion: The options](/news/uk-19570653)
+ [Airport expansion: The options](/news/uk-19570653)- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
+ [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
+- 
+## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
+
+A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
 
 - 
-## [Virgin asks for football TV inquiry](/news/business-29426570)
+## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
 
-Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
-
-- 
-## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
-
-A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
+A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
 
 - 
-## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
+## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
+
+A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
 
 - 
-## [Boy's life-support should end - judge](/news/uk-29428121)
+## [Begg 'offered to help free Henning'](/news/uk-29518323)
 
 - 
-## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
+## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
 
 - 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+## [Four men arrested on terror charges](/news/uk-29519757)
 
 - 
-## [Ofqual warns on essay cheating](/news/education-29427119)
+## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
 
 - 
-## [Wonga sees profits more than halve](/news/business-29424351)
+## [Bahrain prince torture ruling quashed](/news/uk-29521420)
 
 - 
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
 
 - 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [Banker admits Libor fraud conspiracy](/news/business-29520685)
 
 - 
-## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
+## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
 
 - 
-## [Virgin asks for football TV inquiry](/news/business-29426570)
-
-Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
-
-## [Virgin asks for football TV inquiry](/news/business-29426570)
- [Virgin asks for football TV inquiry](/news/business-29426570)
-
-Virgin Media asks Ofcom to investigate the way that the Premier League sells its TV rights, saying the present system is causing "significant consumer harm".
+## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
 
 - 
-## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
-
-A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
-
-## ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
- ['Fantasies' of 'Breaking Bad' accused](/news/uk-england-london-29425831)
-
-A woman who allegedly poisoned her mother in a murder plot inspired by the TV series Breaking Bad tells a court she imagined herself in the show.
+## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
 
 - 
-## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
+## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
 
-## [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)
- [Hillsborough kick-off delay ‘regret'](/news/uk-england-merseyside-29424644)- 
-## [Boy's life-support should end - judge](/news/uk-29428121)
+- 
+## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
 
-## [Boy's life-support should end - judge](/news/uk-29428121)
- [Boy's life-support should end - judge](/news/uk-29428121)- 
-## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
+A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
 
-## [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)
- [Nuns killed in police vehicle crash](/news/uk-northern-ireland-29425566)- 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
+## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
+ ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
 
-## [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)
- [PM vows seven-day GP access by 2020](/news/uk-politics-29415929)- 
-## [Ofqual warns on essay cheating](/news/education-29427119)
+A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
 
-## [Ofqual warns on essay cheating](/news/education-29427119)
- [Ofqual warns on essay cheating](/news/education-29427119)- 
-## [Wonga sees profits more than halve](/news/business-29424351)
+- 
+## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
 
-## [Wonga sees profits more than halve](/news/business-29424351)
- [Wonga sees profits more than halve](/news/business-29424351)- 
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
+A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
 
-## [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)
- [PSNI agency cuts spell end of HET](/news/uk-northern-ireland-29425544)- 
-## [UK second quarter growth revised up](/news/business-29422267)
+## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
+ [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
 
-## [UK second quarter growth revised up](/news/business-29422267)
- [UK second quarter growth revised up](/news/business-29422267)- 
-## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
+A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
 
-## [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
- [Billy Elliot live screening tops UK box office](/news/entertainment-arts-29429557)
+- 
+## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
+
+A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
+
+## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
+ [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
+
+A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
+
+- 
+## [Begg 'offered to help free Henning'](/news/uk-29518323)
+
+## [Begg 'offered to help free Henning'](/news/uk-29518323)
+ [Begg 'offered to help free Henning'](/news/uk-29518323)- 
+## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
+
+## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
+ [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)- 
+## [Four men arrested on terror charges](/news/uk-29519757)
+
+## [Four men arrested on terror charges](/news/uk-29519757)
+ [Four men arrested on terror charges](/news/uk-29519757)- 
+## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
+
+## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
+ [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)- 
+## [Bahrain prince torture ruling quashed](/news/uk-29521420)
+
+## [Bahrain prince torture ruling quashed](/news/uk-29521420)
+ [Bahrain prince torture ruling quashed](/news/uk-29521420)- 
+## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
+
+## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
+ [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)- 
+## [Banker admits Libor fraud conspiracy](/news/business-29520685)
+
+## [Banker admits Libor fraud conspiracy](/news/business-29520685)
+ [Banker admits Libor fraud conspiracy](/news/business-29520685)- 
+## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+
+## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+ [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)- 
+## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
+
+## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
+ [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)- 
+## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
+
+## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
+ [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)- 
+## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
+
+## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
+ [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)

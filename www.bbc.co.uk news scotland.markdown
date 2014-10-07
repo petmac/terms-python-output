@@ -1,146 +1,166 @@
-## [ Police to review firearms policy ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863)
- [ Police to review firearms policy ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)](/news/uk-scotland-scotland-politics-29426863) ![Police Scotland firearms officers](http://news.bbcimg.co.uk/media/images/77913000/jpg/_77913091_firearms.jpg)
+## [ Murder probe after 'horrific attack' ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)](/news/uk-scotland-glasgow-west-29519391)
+ [ Murder probe after 'horrific attack' ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)](/news/uk-scotland-glasgow-west-29519391) ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)
 
-The controversial policy allowing police firearms officers to routinely carry guns will be reviewed by the national force, the BBC learns.
+Police launch a murder inquiry after a man who was critically injured during a "horrific attack" in Glasgow dies in hospital.
 
+- [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
+- [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
+ [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
 * * *
 
-## [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782)
+## [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313)
 
-Scottish Youth Employment Minister Angela Constance has become the third person to contest the deputy leadership of the SNP.
+An expert group set up to improve motor sport safety after three deaths at the Jim Clark Rally in the Borders issues guidance for organisers.
 
-## [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782)
- [![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)Constance stands for SNP deputy job](/news/uk-scotland-scotland-politics-29429782) ![Angela Constance](http://news.bbcimg.co.uk/media/images/77918000/jpg/_77918437_77913107.jpg)
+- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
+- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
+- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
+- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
 
-Scottish Youth Employment Minister Angela Constance has become the third person to contest the deputy leadership of the SNP.
+## [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313)
+ [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313) ![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)
 
-## [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752)
+An expert group set up to improve motor sport safety after three deaths at the Jim Clark Rally in the Borders issues guidance for organisers.
 
-Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
+- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
+- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
+- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
+- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
+- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
+ [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
+ [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
+ [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
+ [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
 
-- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
+## [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440)
 
-## [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752)
- [![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)Whyte given 15-year director ban](/news/uk-scotland-glasgow-west-29429752) ![Craig Whyte](http://news.bbcimg.co.uk/media/images/77920000/jpg/_77920178_craigwhyte.jpg)
+Some residents are evacuated from their seafront homes in the Aberdeenshire town of Stonehaven due to flooding fears.
 
-Former Rangers owner Craig Whyte is banned from being a company director for the maximum period of 15 years.
+## [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440)
+ [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440) ![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)
 
-- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
-- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
- [Rangers repay loans to shareholders](/sport/0/football/29432736) [BBC Sport](/sport/0/)
-- 
-## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
-
-Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
-
-- 
-## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
-
-The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
-
-- 
-## [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
-
-Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock in East Ayrshire on Sunday night.
+Some residents are evacuated from their seafront homes in the Aberdeenshire town of Stonehaven due to flooding fears.
 
 - 
-## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
+## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
+
+A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
 
 - 
-## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
+## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
+
+A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
 
 - 
-## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)
+## [Planes' wingtips hit at airport](/news/world-europe-29517339)
+
+The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
 
 - 
-## [MSPs consider sex education law call](/news/uk-scotland-scotland-politics-29409912)
+## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
 
 - 
-## [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)
+## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
 
 - 
-## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
+## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
 
 - 
-## [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)
+## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
 
 - 
-## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
+## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
 
 - 
-## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)
+## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
 
 - 
-## [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
+## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
 
 - 
-## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
-
-Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
-
-## [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
- [Google Glass used by airport staff](/news/uk-scotland-edinburgh-east-fife-29425349)
-
-Staff at Edinburgh Airport are using Google Glass headsets to help them deal with customer inquiries.
+## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
 
 - 
-## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
-
-The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
-
-## [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
- [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
-
-The man leading the commission on more devolved powers for Scotland writes to campaigners on both sides of the independence debate.
+## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
 
 - 
-## [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
-
-Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock in East Ayrshire on Sunday night.
-
-## [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
- [Teenager raped in Kilmarnock park](/news/uk-scotland-glasgow-west-29429747)
-
-Police try to trace a man who raped a 17-year-old woman in a park in Kilmarnock in East Ayrshire on Sunday night.
+## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
 
 - 
-## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
+## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
 
-## [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)
- [Bid to keep Scot from Pakistan jail](/news/uk-scotland-edinburgh-east-fife-29427932)- 
-## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
+- 
+## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
 
-## [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)
- [Scots Tories 'toxic' image a 'myth'](/news/uk-scotland-scotland-politics-29428818)- 
-## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)
+A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
 
-## [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)
- [Police probe 'suspicious' death](/news/uk-scotland-north-east-orkney-shetland-29419980)- 
-## [MSPs consider sex education law call](/news/uk-scotland-scotland-politics-29409912)
+## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
+ [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
 
-## [MSPs consider sex education law call](/news/uk-scotland-scotland-politics-29409912)
- [MSPs consider sex education law call](/news/uk-scotland-scotland-politics-29409912)- 
-## [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)
+A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
 
-## [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)
- [Footballer admits assault charge](/news/uk-scotland-south-scotland-29425527)- 
-## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
+- 
+## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
 
-## [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)
- [Man in hospital after van hits shop](/news/uk-scotland-glasgow-west-29424341)- 
-## [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)
+A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
 
-## [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)
- [Pair had drugs 'worth £679,000'](/news/uk-scotland-north-east-orkney-shetland-29429547)- 
-## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
+## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
+ [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
 
-## [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)
- [Early release robber jailed for raid](/news/uk-scotland-glasgow-west-29429750)- 
-## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)
+A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
 
-## [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)
- [Gas leak at Grangemouth refinery](/news/uk-scotland-tayside-central-29427464)- 
-## [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
+- 
+## [Planes' wingtips hit at airport](/news/world-europe-29517339)
 
-## [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
- [Ann Gloag denies New Pyjamas meeting](/news/uk-scotland-tayside-central-29427882)
+The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
+
+## [Planes' wingtips hit at airport](/news/world-europe-29517339)
+ [Planes' wingtips hit at airport](/news/world-europe-29517339)
+
+The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
+
+- 
+## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
+
+## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
+ [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)- 
+## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
+
+## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
+ [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)- 
+## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
+
+## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
+ [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)- 
+## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
+
+## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
+ ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)- 
+## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
+
+## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
+ [Shotguns in Scotland at record high](/news/uk-scotland-29522586)- 
+## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
+
+## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
+ [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)- 
+## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
+
+## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
+ [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)- 
+## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
+
+## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
+ [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)- 
+## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
+
+## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
+ [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)- 
+## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
+
+## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
+ [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)- 
+## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
+
+## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
+ [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
