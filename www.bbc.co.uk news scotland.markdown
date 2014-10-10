@@ -1,166 +1,172 @@
-## [ Murder probe after 'horrific attack' ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)](/news/uk-scotland-glasgow-west-29519391)
- [ Murder probe after 'horrific attack' ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)](/news/uk-scotland-glasgow-west-29519391) ![Stephen McGinlay](http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059297_78058224.jpg)
+## [ Party power plans to be submitted ![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127844_lordsmith.jpg)](/news/uk-scotland-scotland-politics-29564608)
+ [ Party power plans to be submitted ![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127844_lordsmith.jpg)](/news/uk-scotland-scotland-politics-29564608) ![Lord Smith of Kelvin](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127844_lordsmith.jpg)
 
-Police launch a murder inquiry after a man who was critically injured during a "horrific attack" in Glasgow dies in hospital.
+Scotland's political parties are due to make submissions to the commission tasked with delivering more devolved powers in the wake of the referendum result.
 
-- [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
-- [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
- [Man critical after murder bid attack](/news/uk-scotland-glasgow-west-29478437)
+- [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+- [Meet the commission's party people](/news/uk-scotland-scotland-politics-29479442)
+- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)
+- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)
+- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998)
+- [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)
+ [Views sought from indyref campaigns](/news/uk-scotland-scotland-politics-29425037)- [Meet the commission's party people](/news/uk-scotland-scotland-politics-29479442)
+ [Meet the commission's party people](/news/uk-scotland-scotland-politics-29479442)- [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)
+ [Sturgeon in 'good faith' Smith pledge](/news/uk-scotland-scotland-politics-29392455)- [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)
+ [Agreement on new powers 'not easy'](/news/uk-scotland-scotland-politics-29327973)- [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998)
+ [Lord Smith: Scotland expects consensus Watch](/news/uk-scotland-29330998) Watch
 * * *
 
-## [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313)
+## [![Estate agent window](http://news.bbcimg.co.uk/media/images/78128000/jpg/_78128209_estateagentpics_getty.jpg)Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)
 
-An expert group set up to improve motor sport safety after three deaths at the Jim Clark Rally in the Borders issues guidance for organisers.
+Homebuyers in Scotland will pay no tax on properties costing less than £135,000, Finance Secretary John Swinney announces.
 
-- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
-- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
-- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
-- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
+- [Who are the winners and losers?](/news/uk-scotland-scotland-politics-29559618)
+- [Scottish Budget: Reaction in quotes](/news/uk-scotland-29553283)
+- [Brian Taylor on FMQs and budget](/news/uk-scotland-29558844)
+- [Douglas Fraser on tax powers](/news/uk-scotland-scotland-politics-29561724)
 
-## [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313)
- [![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)Rally death safety guidance issued](/news/uk-scotland-south-scotland-29522313) ![Crash scene](http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056502_hi022496983.jpg)
+## [![Estate agent window](http://news.bbcimg.co.uk/media/images/78128000/jpg/_78128209_estateagentpics_getty.jpg)Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)
+ [![Estate agent window](http://news.bbcimg.co.uk/media/images/78128000/jpg/_78128209_estateagentpics_getty.jpg)Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022) ![Estate agent window](http://news.bbcimg.co.uk/media/images/78128000/jpg/_78128209_estateagentpics_getty.jpg)
 
-An expert group set up to improve motor sport safety after three deaths at the Jim Clark Rally in the Borders issues guidance for organisers.
+Homebuyers in Scotland will pay no tax on properties costing less than £135,000, Finance Secretary John Swinney announces.
 
-- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
-- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
-- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
-- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
-- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)
- [Stewart given motorsport review role](/news/uk-scotland-south-scotland-27939197)- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)
- [Rally safety stepped up after deaths](/news/uk-scotland-south-scotland-27884844)- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)
- [Rally crash victims' funerals held](/news/uk-scotland-south-scotland-27798536)- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
- [Funeral held for rally crash victim](/news/uk-scotland-south-scotland-27784226)
+- [Who are the winners and losers?](/news/uk-scotland-scotland-politics-29559618)
+- [Scottish Budget: Reaction in quotes](/news/uk-scotland-29553283)
+- [Brian Taylor on FMQs and budget](/news/uk-scotland-29558844)
+- [Douglas Fraser on tax powers](/news/uk-scotland-scotland-politics-29561724)
+- [Who are the winners and losers?](/news/uk-scotland-scotland-politics-29559618)
+ [Who are the winners and losers?](/news/uk-scotland-scotland-politics-29559618)- [Scottish Budget: Reaction in quotes](/news/uk-scotland-29553283)
+ [Scottish Budget: Reaction in quotes](/news/uk-scotland-29553283)- [Brian Taylor on FMQs and budget](/news/uk-scotland-29558844)
+ [Brian Taylor on FMQs and budget](/news/uk-scotland-29558844)- [Douglas Fraser on tax powers](/news/uk-scotland-scotland-politics-29561724)
+ [Douglas Fraser on tax powers](/news/uk-scotland-scotland-politics-29561724)
 
-## [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440)
+## [![Eyre Place in Edinburgh](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127832_78080605.jpg)Renewed witness appeal after rape](/news/uk-scotland-edinburgh-east-fife-29564613)
 
-Some residents are evacuated from their seafront homes in the Aberdeenshire town of Stonehaven due to flooding fears.
+Detectives issue a renewed appeal for information after a 21-year-old woman was raped in an Edinburgh street.
 
-## [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440)
- [![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)Evacuation follows flooding fears](/news/uk-scotland-tayside-central-29519440) ![Aberdeen](http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066886_aberdeenpaulbarlow.jpg)
+- [Police inquiry after woman raped](/news/uk-scotland-edinburgh-east-fife-29534889)
 
-Some residents are evacuated from their seafront homes in the Aberdeenshire town of Stonehaven due to flooding fears.
+## [![Eyre Place in Edinburgh](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127832_78080605.jpg)Renewed witness appeal after rape](/news/uk-scotland-edinburgh-east-fife-29564613)
+ [![Eyre Place in Edinburgh](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127832_78080605.jpg)Renewed witness appeal after rape](/news/uk-scotland-edinburgh-east-fife-29564613) ![Eyre Place in Edinburgh](http://news.bbcimg.co.uk/media/images/78127000/jpg/_78127832_78080605.jpg)
+
+Detectives issue a renewed appeal for information after a 21-year-old woman was raped in an Edinburgh street.
+
+- [Police inquiry after woman raped](/news/uk-scotland-edinburgh-east-fife-29534889)
+- [Police inquiry after woman raped](/news/uk-scotland-edinburgh-east-fife-29534889)
+ [Police inquiry after woman raped](/news/uk-scotland-edinburgh-east-fife-29534889)
+- 
+## [New appeal over missing ex-prisoner](/news/uk-scotland-glasgow-west-29558709)
+
+Police attempting to trace a missing ex-prisoner from Glasgow who is unlawfully at large issue a fresh appeal for help.
 
 - 
-## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
+## [Bannockburn welcomes 50,000 visitors](/news/uk-scotland-tayside-central-29553725)
 
-A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
-
-- 
-## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
-
-A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
+The Battle of Bannockburn Visitor Centre welcomes its 50,000th guest since opening its doors earlier this year.
 
 - 
-## [Planes' wingtips hit at airport](/news/world-europe-29517339)
+## [Inverness prepares for Gaelic's Mod](/news/uk-scotland-highlands-islands-29552086)
 
-The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
-
-- 
-## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
+The Royal National Mod - Gaelic's showcase of language, song, dance and arts - starts in Inverness later.
 
 - 
-## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
+## [Date set for speed camera switch on](/news/uk-scotland-highlands-islands-29552083)
 
 - 
-## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
+## [Rapist who groomed girls jailed](/news/uk-scotland-glasgow-west-29550068)
 
 - 
-## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
+## [Public questioned at murder scene](/news/uk-scotland-glasgow-west-29550071)
 
 - 
-## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
+## [Man who tortured victim jailed](/news/uk-scotland-glasgow-west-29553282)
 
 - 
-## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
+## [Man admits guilt over crash deaths](/news/uk-scotland-glasgow-west-29550065)
 
 - 
-## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
+## [Murray confirms Rangers funding bid](/sport/0/football/29548301) [BBC Sport](/sport/0/)
 
 - 
-## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
+## [Glasgow Girl helps asylum students](/news/uk-scotland-29559996)
 
 - 
-## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
+## [Overseas visits to Scotland increase](/news/uk-scotland-29550883)
 
 - 
-## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
+## [Woman hurt in Glasgow hit-and-run](/news/uk-scotland-glasgow-west-29550072)
 
 - 
-## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
+## [Hotel manager jail term quashed](/news/uk-scotland-edinburgh-east-fife-29554972)
 
 - 
-## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
+## [New appeal over missing ex-prisoner](/news/uk-scotland-glasgow-west-29558709)
 
-A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
+Police attempting to trace a missing ex-prisoner from Glasgow who is unlawfully at large issue a fresh appeal for help.
 
-## [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
- [Back-up roof for fire-hit art school](/news/uk-scotland-glasgow-west-29519393)
+## [New appeal over missing ex-prisoner](/news/uk-scotland-glasgow-west-29558709)
+ [New appeal over missing ex-prisoner](/news/uk-scotland-glasgow-west-29558709)
 
-A temporary roof is being installed on Glasgow's School of Art's fire-damaged Mackintosh building to keep it dry over the winter.
-
-- 
-## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
-
-A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
-
-## [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
- [Man arrested after cycle path 'rape'](/news/uk-scotland-glasgow-west-29519398)
-
-A man is arrested after an 18-year-old woman was allegedly raped on a cycle path in Renfrewshire last week.
+Police attempting to trace a missing ex-prisoner from Glasgow who is unlawfully at large issue a fresh appeal for help.
 
 - 
-## [Planes' wingtips hit at airport](/news/world-europe-29517339)
+## [Bannockburn welcomes 50,000 visitors](/news/uk-scotland-tayside-central-29553725)
 
-The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
+The Battle of Bannockburn Visitor Centre welcomes its 50,000th guest since opening its doors earlier this year.
 
-## [Planes' wingtips hit at airport](/news/world-europe-29517339)
- [Planes' wingtips hit at airport](/news/world-europe-29517339)
+## [Bannockburn welcomes 50,000 visitors](/news/uk-scotland-tayside-central-29553725)
+ [Bannockburn welcomes 50,000 visitors](/news/uk-scotland-tayside-central-29553725)
 
-The wingtips of two Ryanair planes, one bound for Edinburgh, hit each other on a taxi-way off the runway at Dublin Airport.
+The Battle of Bannockburn Visitor Centre welcomes its 50,000th guest since opening its doors earlier this year.
 
 - 
-## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
+## [Inverness prepares for Gaelic's Mod](/news/uk-scotland-highlands-islands-29552086)
 
-## [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)
- [Care worker jailed for killing woman](/news/uk-scotland-glasgow-west-29523648)- 
-## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
+The Royal National Mod - Gaelic's showcase of language, song, dance and arts - starts in Inverness later.
 
-## [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)
- [Lorries involved in crash on A9](/news/uk-scotland-tayside-central-29518886)- 
-## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
+## [Inverness prepares for Gaelic's Mod](/news/uk-scotland-highlands-islands-29552086)
+ [Inverness prepares for Gaelic's Mod](/news/uk-scotland-highlands-islands-29552086)
 
-## [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)
- [Body find sparks murder inquiry](/news/uk-scotland-edinburgh-east-fife-29522409)- 
-## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
+The Royal National Mod - Gaelic's showcase of language, song, dance and arts - starts in Inverness later.
 
-## ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)
- ['No systematic abuse' in Scotland](/news/uk-scotland-scotland-politics-29527188)- 
-## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
+- 
+## [Date set for speed camera switch on](/news/uk-scotland-highlands-islands-29552083)
 
-## [Shotguns in Scotland at record high](/news/uk-scotland-29522586)
- [Shotguns in Scotland at record high](/news/uk-scotland-29522586)- 
-## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
+## [Date set for speed camera switch on](/news/uk-scotland-highlands-islands-29552083)
+ [Date set for speed camera switch on](/news/uk-scotland-highlands-islands-29552083)- 
+## [Rapist who groomed girls jailed](/news/uk-scotland-glasgow-west-29550068)
 
-## [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)
- [Robbery images released by police](/news/uk-scotland-edinburgh-east-fife-29520234)- 
-## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
+## [Rapist who groomed girls jailed](/news/uk-scotland-glasgow-west-29550068)
+ [Rapist who groomed girls jailed](/news/uk-scotland-glasgow-west-29550068)- 
+## [Public questioned at murder scene](/news/uk-scotland-glasgow-west-29550071)
 
-## [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)
- [Four hurt as cars crash in fog on A8](/news/uk-scotland-glasgow-west-29523645)- 
-## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
+## [Public questioned at murder scene](/news/uk-scotland-glasgow-west-29550071)
+ [Public questioned at murder scene](/news/uk-scotland-glasgow-west-29550071)- 
+## [Man who tortured victim jailed](/news/uk-scotland-glasgow-west-29553282)
 
-## [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)
- [MP welcomes 'strong' SNP job backing](/news/uk-scotland-scotland-politics-29519694)- 
-## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
+## [Man who tortured victim jailed](/news/uk-scotland-glasgow-west-29553282)
+ [Man who tortured victim jailed](/news/uk-scotland-glasgow-west-29553282)- 
+## [Man admits guilt over crash deaths](/news/uk-scotland-glasgow-west-29550065)
 
-## [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)
- [Heroin gang jailed for 14 years](/news/uk-scotland-tayside-central-29526267)- 
-## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
+## [Man admits guilt over crash deaths](/news/uk-scotland-glasgow-west-29550065)
+ [Man admits guilt over crash deaths](/news/uk-scotland-glasgow-west-29550065)- 
+## [Murray confirms Rangers funding bid](/sport/0/football/29548301) [BBC Sport](/sport/0/)
 
-## [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)
- [Chip shop in line for UK honour](/news/uk-scotland-north-east-orkney-shetland-29526257)- 
-## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
+## [Murray confirms Rangers funding bid](/sport/0/football/29548301) [BBC Sport](/sport/0/)
+ [Murray confirms Rangers funding bid](/sport/0/football/29548301) [BBC Sport](/sport/0/)- 
+## [Glasgow Girl helps asylum students](/news/uk-scotland-29559996)
 
-## [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
- [Art gallery wins £10m lottery funds](/news/uk-scotland-north-east-orkney-shetland-29519615)
+## [Glasgow Girl helps asylum students](/news/uk-scotland-29559996)
+ [Glasgow Girl helps asylum students](/news/uk-scotland-29559996)- 
+## [Overseas visits to Scotland increase](/news/uk-scotland-29550883)
+
+## [Overseas visits to Scotland increase](/news/uk-scotland-29550883)
+ [Overseas visits to Scotland increase](/news/uk-scotland-29550883)- 
+## [Woman hurt in Glasgow hit-and-run](/news/uk-scotland-glasgow-west-29550072)
+
+## [Woman hurt in Glasgow hit-and-run](/news/uk-scotland-glasgow-west-29550072)
+ [Woman hurt in Glasgow hit-and-run](/news/uk-scotland-glasgow-west-29550072)- 
+## [Hotel manager jail term quashed](/news/uk-scotland-edinburgh-east-fife-29554972)
+
+## [Hotel manager jail term quashed](/news/uk-scotland-edinburgh-east-fife-29554972)
+ [Hotel manager jail term quashed](/news/uk-scotland-edinburgh-east-fife-29554972)

@@ -1,143 +1,290 @@
-## [ Spain investigates Ebola infection](/news/world-europe-29516882)
- [ Spain investigates Ebola infection](/news/world-europe-29516882)
- ![](http://news.bbcimg.co.uk/media/images/78062000/jpg/_78062389_024231453.jpg)
- ![](http://news.bbcimg.co.uk/media/images/78062000/jpg/_78062389_024231453.jpg)<script type="text/javascript"> 
+## [ UKIP win gives party first elected MP](/news/uk-politics-29549414)
+ [ UKIP win gives party first elected MP](/news/uk-politics-29549414)
+ ![](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126436_78126232.jpg)
+ ![](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126436_78126232.jpg)<script type="text/javascript"> 
         $render("slideshow","topStorySlideShow",{ height:216, width:384,
                 images : [ 
-                                                                                {src:"http://news.bbcimg.co.uk/media/images/78062000/jpg/_78062389_024231453.jpg", alt:"Hospital staff attend a protest outside La Paz Hospital in Madrid, Spain. 7 Oct 2014"}, {src:"http://news.bbcimg.co.uk/media/images/78053000/jpg/_78053057_ambulanceap.jpg", alt:"Nurse being moved from Alcorcon hospital to Carlos III hospital in Madrid 6 Oct 2014"}, {src:"http://news.bbcimg.co.uk/media/images/78059000/jpg/_78059065_024230338.jpg", alt:"Hospital staff and police outside Carlos III hospital in Madrid, Spain. 7 Oct 2014"}, {src:"http://news.bbcimg.co.uk/media/images/78054000/jpg/_78054302_movegetty.jpg", alt:"Nurse being moved from Alcorcon hospital to Carlos III hospital in Madrid 6 Oct 2014"} ] 
+                                                                                {src:"http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126436_78126232.jpg", alt:"Douglas Carswell and Nigel Farage"}, {src:"http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126437_78126068.jpg", alt:"Liz McInnes"}, {src:"http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126445_78126444.jpg", alt:"Votes being counted"}, {src:"http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126441_78126440.jpg", alt:"Douglas Carswell and wife Clementine"}, {src:"http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126439_78126438.jpg", alt:"Douglas Carswell and other candidates awaiting result"} ] 
         }); 
 </script>
 
-A Madrid hospital investigates how a nurse became the first person to contract Ebola outside West Africa, as three more people are quarantined.
+UKIP makes a breakthrough, winning the Clacton by-election - and comes close to a shock win over Labour in Heywood and Middleton.
 
-- [Spain case 'may be human error' Watch](/news/world-europe-29517388)
-- [Spanish press poses Ebola questions](/news/world-europe-29519370)
-- [How not to catch Ebola](/news/health-29518703)
-- [Ebola aid row in Sierra Leone](/news/world-africa-29519704)
-- [Airline shares hit by Ebola fears](/news/business-29517849)
-- [What is Ebola? Watch](/news/health-28105531)
-- [Spain case 'may be human error' Watch](/news/world-europe-29517388)
- [Spain case 'may be human error' Watch](/news/world-europe-29517388) Watch- [Spanish press poses Ebola questions](/news/world-europe-29519370)
- [Spanish press poses Ebola questions](/news/world-europe-29519370)- [How not to catch Ebola](/news/health-29518703)
- [How not to catch Ebola](/news/health-29518703)- [Ebola aid row in Sierra Leone](/news/world-africa-29519704)
- [Ebola aid row in Sierra Leone](/news/world-africa-29519704)- [Airline shares hit by Ebola fears](/news/business-29517849)
- [Airline shares hit by Ebola fears](/news/business-29517849)- [What is Ebola? Watch](/news/health-28105531)
- [What is Ebola? Watch](/news/health-28105531) Watch
+- [Robinson: Revenge is sweet](/news/uk-politics-29562582)
+- [How UKIP became a political force](/news/uk-politics-21614073)
+- [Plenty to ponder for big parties](/news/uk-politics-29564265)
+- [Profile: Douglas Carswell MP](/news/uk-politics-28967101)
+- [Reaction to by-election results Live](/news/uk-29562688)
+- [Landale: What next for UKIP?](/news/uk-politics-29562579)
+- [Carswell's victory speech Watch](/news/uk-politics-29563776)
+- [UKIP's record-breaking stats Watch](/news/uk-politics-29563847)
+- [Robinson: Revenge is sweet](/news/uk-politics-29562582)
+ [Robinson: Revenge is sweet](/news/uk-politics-29562582)- [How UKIP became a political force](/news/uk-politics-21614073)
+ [How UKIP became a political force](/news/uk-politics-21614073)- [Plenty to ponder for big parties](/news/uk-politics-29564265)
+ [Plenty to ponder for big parties](/news/uk-politics-29564265)- [Profile: Douglas Carswell MP](/news/uk-politics-28967101)
+ [Profile: Douglas Carswell MP](/news/uk-politics-28967101)- [Reaction to by-election results Live](/news/uk-29562688)
+ [Reaction to by-election results Live](/news/uk-29562688) Live- [Landale: What next for UKIP?](/news/uk-politics-29562579)
+ [Landale: What next for UKIP?](/news/uk-politics-29562579)- [Carswell's victory speech Watch](/news/uk-politics-29563776)
+ [Carswell's victory speech Watch](/news/uk-politics-29563776) Watch- [UKIP's record-breaking stats Watch](/news/uk-politics-29563847)
+ [UKIP's record-breaking stats Watch](/news/uk-politics-29563847) Watch
 * * *
 
-## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
+## [ Reaction to by-election results Live](/news/uk-29562688)
+ [ Reaction to by-election results Live](/news/uk-29562688)Live
 
-The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
+Reaction from Thursday night's by-election results in Clacton and Heywood & Middleton, with UKIP gaining their first elected MP in the former constituency.
 
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
-- [Airport expansion: The options](/news/uk-19570653)
-- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
-- [Clegg to outline low-paid tax pledge](/news/uk-politics-29516835)
-- [Nick Clegg: 'We lost our voice' Watch](/news/uk-politics-29516414)
+<script type="text/javascript">
 
-## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
- [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800) ![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)
+          
+          
 
-The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
+          (function() {
 
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
-- [Airport expansion: The options](/news/uk-19570653)
-- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
-- [Clegg to outline low-paid tax pledge](/news/uk-politics-29516835)
-- [Nick Clegg: 'We lost our voice' Watch](/news/uk-politics-29516414)
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
- [Liberal Democrat conference Live](/news/live/uk-politics-29518585) Live- [Airport expansion: The options](/news/uk-19570653)
- [Airport expansion: The options](/news/uk-19570653)- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)- [Clegg to outline low-paid tax pledge](/news/uk-politics-29516835)
- [Clegg to outline low-paid tax pledge](/news/uk-politics-29516835)- [Nick Clegg: 'We lost our voice' Watch](/news/uk-politics-29516414)
- [Nick Clegg: 'We lost our voice' Watch](/news/uk-politics-29516414) Watch
+            var static_version = "1.49.0-1192",
+                pal_env = "live",
+                polling_host = (pal_env == "live") ? "polling.bbc.co.uk" : "polling." + pal_env + ".bbc.co.uk",
+                static_host = (pal_env == "live") ? "static.bbci.co.uk" : "static." + pal_env + ".bbci.co.uk";
 
-## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
+            var prefixes = {"/newyddion": "cy", "/naidheachdan": "gd", "/": "en-GB"};
+            for (prefix in prefixes) {
+                if (location.pathname.indexOf(prefix) == 0) {
+                    var language = prefixes[prefix];
+                }
+            }
 
-Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
+            require({
+                baseUrl: "http://" + static_host + "/news/" + static_version + "/js/",
+                paths: {
+                    "module/bootstrap": "module/bootstrap-desktop",
+                    "translate": "module/translations/" + language
+                }
+            });
 
-## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
- [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976) ![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)
+            require(["module/live-event-component","jquery-1"],function(liveEventComponent,$){
 
-Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
+                function jqueryFadeOutAndIn(container, newEntry) {
+                    container.fadeOut(1200, function() {
+                      container.html(newEntry);
+                      container.fadeIn(1200);
+                    });
+                }
+
+                $(document).ready(function($){
+                    liveEventComponent.init("http://" + polling_host, jqueryFadeOutAndIn);
+
+                    $('.live-event-index').live('click', function() {
+                      window.location = $(this).attr('data-live-event-url');
+                    });
+                });
+            });
+
+          })()
+
+      </script>
+
+Reaction from Thursday night's by-election results in Clacton and Heywood & Middleton, with UKIP gaining their first elected MP in the former constituency.
+
+<script type="text/javascript">
+
+          
+          
+
+          (function() {
+
+            var static_version = "1.49.0-1192",
+                pal_env = "live",
+                polling_host = (pal_env == "live") ? "polling.bbc.co.uk" : "polling." + pal_env + ".bbc.co.uk",
+                static_host = (pal_env == "live") ? "static.bbci.co.uk" : "static." + pal_env + ".bbci.co.uk";
+
+            var prefixes = {"/newyddion": "cy", "/naidheachdan": "gd", "/": "en-GB"};
+            for (prefix in prefixes) {
+                if (location.pathname.indexOf(prefix) == 0) {
+                    var language = prefixes[prefix];
+                }
+            }
+
+            require({
+                baseUrl: "http://" + static_host + "/news/" + static_version + "/js/",
+                paths: {
+                    "module/bootstrap": "module/bootstrap-desktop",
+                    "translate": "module/translations/" + language
+                }
+            });
+
+            require(["module/live-event-component","jquery-1"],function(liveEventComponent,$){
+
+                function jqueryFadeOutAndIn(container, newEntry) {
+                    container.fadeOut(1200, function() {
+                      container.html(newEntry);
+                      container.fadeIn(1200);
+                    });
+                }
+
+                $(document).ready(function($){
+                    liveEventComponent.init("http://" + polling_host, jqueryFadeOutAndIn);
+
+                    $('.live-event-index').live('click', function() {
+                      window.location = $(this).attr('data-live-event-url');
+                    });
+                });
+            });
+
+          })()
+
+      </script>
+
+Reaction from Thursday night's by-election results in Clacton and Heywood & Middleton, with UKIP gaining their first elected MP in the former constituency.
+
+<script type="text/javascript">
+
+          
+          
+
+          (function() {
+
+            var static_version = "1.49.0-1192",
+                pal_env = "live",
+                polling_host = (pal_env == "live") ? "polling.bbc.co.uk" : "polling." + pal_env + ".bbc.co.uk",
+                static_host = (pal_env == "live") ? "static.bbci.co.uk" : "static." + pal_env + ".bbci.co.uk";
+
+            var prefixes = {"/newyddion": "cy", "/naidheachdan": "gd", "/": "en-GB"};
+            for (prefix in prefixes) {
+                if (location.pathname.indexOf(prefix) == 0) {
+                    var language = prefixes[prefix];
+                }
+            }
+
+            require({
+                baseUrl: "http://" + static_host + "/news/" + static_version + "/js/",
+                paths: {
+                    "module/bootstrap": "module/bootstrap-desktop",
+                    "translate": "module/translations/" + language
+                }
+            });
+
+            require(["module/live-event-component","jquery-1"],function(liveEventComponent,$){
+
+                function jqueryFadeOutAndIn(container, newEntry) {
+                    container.fadeOut(1200, function() {
+                      container.html(newEntry);
+                      container.fadeIn(1200);
+                    });
+                }
+
+                $(document).ready(function($){
+                    liveEventComponent.init("http://" + polling_host, jqueryFadeOutAndIn);
+
+                    $('.live-event-index').live('click', function() {
+                      window.location = $(this).attr('data-live-event-url');
+                    });
+                });
+            });
+
+          })()
+
+      </script>
+
+## [![US soldiers from the 101st Airborne Division (Air Assault - earmarked for the fight against Ebola - train before their deployment to West Africa, at Fort Campbell, Kentucky (9 October 2014)](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126406_78126145.jpg)Ebola is 'entrenched' in West Africa](/news/world-africa-29563530)
+
+The World Health Organization warns that Ebola is now entrenched in the capital cities of all three worst-affected countries and is accelerating.
+
+- [Fears of Ebola spreading further Watch](/news/world-29556590)
+- [UK minister backs screening](/news/uk-29564092)
+- [Well-drilled village](/news/health-29507673)
+- [US army prepares for fight Watch](/news/world-us-canada-29564334)
+
+## [![US soldiers from the 101st Airborne Division (Air Assault - earmarked for the fight against Ebola - train before their deployment to West Africa, at Fort Campbell, Kentucky (9 October 2014)](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126406_78126145.jpg)Ebola is 'entrenched' in West Africa](/news/world-africa-29563530)
+ [![US soldiers from the 101st Airborne Division (Air Assault - earmarked for the fight against Ebola - train before their deployment to West Africa, at Fort Campbell, Kentucky (9 October 2014)](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126406_78126145.jpg)Ebola is 'entrenched' in West Africa](/news/world-africa-29563530) ![US soldiers from the 101st Airborne Division (Air Assault - earmarked for the fight against Ebola - train before their deployment to West Africa, at Fort Campbell, Kentucky (9 October 2014)](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126406_78126145.jpg)
+
+The World Health Organization warns that Ebola is now entrenched in the capital cities of all three worst-affected countries and is accelerating.
+
+- [Fears of Ebola spreading further Watch](/news/world-29556590)
+- [UK minister backs screening](/news/uk-29564092)
+- [Well-drilled village](/news/health-29507673)
+- [US army prepares for fight Watch](/news/world-us-canada-29564334)
+- [Fears of Ebola spreading further Watch](/news/world-29556590)
+ [Fears of Ebola spreading further Watch](/news/world-29556590) Watch- [UK minister backs screening](/news/uk-29564092)
+ [UK minister backs screening](/news/uk-29564092)- [Well-drilled village](/news/health-29507673)
+ [Well-drilled village](/news/health-29507673)- [US army prepares for fight Watch](/news/world-us-canada-29564334)
+ [US army prepares for fight Watch](/news/world-us-canada-29564334) Watch
+- 
+## [N Korea marks event without leader](/news/world-asia-29563837)
+
+North Korean leader Kim Jong-un missed a key ceremony, state media confirm, amid speculation about why he has not recently been seen in public.
 
 - 
-## [New air strikes target IS in Kobane](/news/world-middle-east-29526783)
+## [Air strikes 'stall IS Syria advance'](/news/world-middle-east-29555999)
 
-New US-led air strikes target Islamic State militants attacking the Syrian border town of Kobane, as Turkey's president warns it is about to fall.
-
-- 
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
-
-A senior banker from a UK bank admits conspiracy to defraud over manipulating the key Libor inter-bank lending rate.
+US-led air strikes on the Syrian Kurdish town of Kobane seem to have stalled an IS advance, as reports say the militants have lost ground.
 
 - 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
+## [HK students call for fresh protests](/news/world-asia-china-29563788)
 
 - 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+## [Parents face online homework dilemma](/news/education-29550335)
 
 - 
-## [IMF warns of 'uneven' recovery](/news/business-29520881)
+## [Oil prices drop to four-year low](/news/business-29566009)
 
 - 
-## [Four men arrested on terror charges](/news/uk-29519757)
+## [Antibiotic resistance rise continues](/news/health-29553435)
 
 - 
-## [Nobel Prize for blue LED invention](/news/science-environment-29518521)
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
 
 - 
-## [S Korea ferry captain was 'confused'](/news/world-asia-29519521)
+## [New mass graves found in Mexico town](/news/world-latin-america-29563379)
 
 - 
-## [UK's Lord Hill struggles to woo MEPs](/news/world-europe-29518722)
+## [Report details Palin family brawl](/news/world-us-canada-29563253)
 
 - 
-## [New air strikes target IS in Kobane](/news/world-middle-east-29526783)
+## [N Korea marks event without leader](/news/world-asia-29563837)
 
-New US-led air strikes target Islamic State militants attacking the Syrian border town of Kobane, as Turkey's president warns it is about to fall.
+North Korean leader Kim Jong-un missed a key ceremony, state media confirm, amid speculation about why he has not recently been seen in public.
 
-## [New air strikes target IS in Kobane](/news/world-middle-east-29526783)
- [New air strikes target IS in Kobane](/news/world-middle-east-29526783)
+## [N Korea marks event without leader](/news/world-asia-29563837)
+ [N Korea marks event without leader](/news/world-asia-29563837)
 
-New US-led air strikes target Islamic State militants attacking the Syrian border town of Kobane, as Turkey's president warns it is about to fall.
-
-- 
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
-
-A senior banker from a UK bank admits conspiracy to defraud over manipulating the key Libor inter-bank lending rate.
-
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
- [Banker admits Libor fraud conspiracy](/news/business-29520685)
-
-A senior banker from a UK bank admits conspiracy to defraud over manipulating the key Libor inter-bank lending rate.
+North Korean leader Kim Jong-un missed a key ceremony, state media confirm, amid speculation about why he has not recently been seen in public.
 
 - 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
+## [Air strikes 'stall IS Syria advance'](/news/world-middle-east-29555999)
 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
- [Begg 'offered to help free Henning'](/news/uk-29518323)- 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+US-led air strikes on the Syrian Kurdish town of Kobane seem to have stalled an IS advance, as reports say the militants have lost ground.
 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
- [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)- 
-## [IMF warns of 'uneven' recovery](/news/business-29520881)
+## [Air strikes 'stall IS Syria advance'](/news/world-middle-east-29555999)
+ [Air strikes 'stall IS Syria advance'](/news/world-middle-east-29555999)
 
-## [IMF warns of 'uneven' recovery](/news/business-29520881)
- [IMF warns of 'uneven' recovery](/news/business-29520881)- 
-## [Four men arrested on terror charges](/news/uk-29519757)
+US-led air strikes on the Syrian Kurdish town of Kobane seem to have stalled an IS advance, as reports say the militants have lost ground.
 
-## [Four men arrested on terror charges](/news/uk-29519757)
- [Four men arrested on terror charges](/news/uk-29519757)- 
-## [Nobel Prize for blue LED invention](/news/science-environment-29518521)
+- 
+## [HK students call for fresh protests](/news/world-asia-china-29563788)
 
-## [Nobel Prize for blue LED invention](/news/science-environment-29518521)
- [Nobel Prize for blue LED invention](/news/science-environment-29518521)- 
-## [S Korea ferry captain was 'confused'](/news/world-asia-29519521)
+## [HK students call for fresh protests](/news/world-asia-china-29563788)
+ [HK students call for fresh protests](/news/world-asia-china-29563788)- 
+## [Parents face online homework dilemma](/news/education-29550335)
 
-## [S Korea ferry captain was 'confused'](/news/world-asia-29519521)
- [S Korea ferry captain was 'confused'](/news/world-asia-29519521)- 
-## [UK's Lord Hill struggles to woo MEPs](/news/world-europe-29518722)
+## [Parents face online homework dilemma](/news/education-29550335)
+ [Parents face online homework dilemma](/news/education-29550335)- 
+## [Oil prices drop to four-year low](/news/business-29566009)
 
-## [UK's Lord Hill struggles to woo MEPs](/news/world-europe-29518722)
- [UK's Lord Hill struggles to woo MEPs](/news/world-europe-29518722)
+## [Oil prices drop to four-year low](/news/business-29566009)
+ [Oil prices drop to four-year low](/news/business-29566009)- 
+## [Antibiotic resistance rise continues](/news/health-29553435)
+
+## [Antibiotic resistance rise continues](/news/health-29553435)
+ [Antibiotic resistance rise continues](/news/health-29553435)- 
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
+
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
+ [Private sector pay 'to rise fastest'](/news/business-29552993)- 
+## [New mass graves found in Mexico town](/news/world-latin-america-29563379)
+
+## [New mass graves found in Mexico town](/news/world-latin-america-29563379)
+ [New mass graves found in Mexico town](/news/world-latin-america-29563379)- 
+## [Report details Palin family brawl](/news/world-us-canada-29563253)
+
+## [Report details Palin family brawl](/news/world-us-canada-29563253)
+ [Report details Palin family brawl](/news/world-us-canada-29563253)

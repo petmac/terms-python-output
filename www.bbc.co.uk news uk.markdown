@@ -1,168 +1,182 @@
-## [ No Ebola screening for UK arrivals ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)](/news/uk-29518342)
- [ No Ebola screening for UK arrivals ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)](/news/uk-29518342) ![Woman having temperature taken](http://news.bbcimg.co.uk/media/images/78063000/jpg/_78063190_tv023953573.jpg)
+## [ UKIP win gives party first elected MP ![Douglas Carswell and Nigel Farage](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126319_78126232.jpg)](/news/uk-politics-29549414)
+ [ UKIP win gives party first elected MP ![Douglas Carswell and Nigel Farage](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126319_78126232.jpg)](/news/uk-politics-29549414) ![Douglas Carswell and Nigel Farage](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126319_78126232.jpg)
 
-There are no plans to introduce Ebola screening for those arriving in the UK, Public Health England says.
+UKIP makes a breakthrough, winning the Clacton by-election - and comes close to a shock win over Labour in Heywood and Middleton.
 
-- [Border Force guidance 'clear' Watch](/news/health-29519688)
-- [Ebola virus: Busting the myths](/news/health-29311659)
-- [In 60 seconds: What is Ebola? Watch](/news/health-28105531)
-- [BA suspends flights amid Ebola alert](/news/uk-28663833)
-- [Border Force guidance 'clear' Watch](/news/health-29519688)
- [Border Force guidance 'clear' Watch](/news/health-29519688) Watch- [Ebola virus: Busting the myths](/news/health-29311659)
- [Ebola virus: Busting the myths](/news/health-29311659)- [In 60 seconds: What is Ebola? Watch](/news/health-28105531)
- [In 60 seconds: What is Ebola? Watch](/news/health-28105531) Watch- [BA suspends flights amid Ebola alert](/news/uk-28663833)
- [BA suspends flights amid Ebola alert](/news/uk-28663833)
+- [Robinson: Revenge is sweet](/news/uk-politics-29562582)
+- [How UKIP became a political force](/news/uk-politics-21614073)
+- [Plenty to ponder for big parties](/news/uk-politics-29564265)
+- [Profile: Douglas Carswell MP](/news/uk-politics-28967101)
+- [Reaction to by-election results Live](/news/uk-29562688)
+- [Landale: What next for UKIP?](/news/uk-politics-29562579)
+- [Carswell's victory speech Watch](/news/uk-politics-29563776)
+- [Robinson: Revenge is sweet](/news/uk-politics-29562582)
+ [Robinson: Revenge is sweet](/news/uk-politics-29562582)- [How UKIP became a political force](/news/uk-politics-21614073)
+ [How UKIP became a political force](/news/uk-politics-21614073)- [Plenty to ponder for big parties](/news/uk-politics-29564265)
+ [Plenty to ponder for big parties](/news/uk-politics-29564265)- [Profile: Douglas Carswell MP](/news/uk-politics-28967101)
+ [Profile: Douglas Carswell MP](/news/uk-politics-28967101)- [Reaction to by-election results Live](/news/uk-29562688)
+ [Reaction to by-election results Live](/news/uk-29562688) Live- [Landale: What next for UKIP?](/news/uk-politics-29562579)
+ [Landale: What next for UKIP?](/news/uk-politics-29562579)- [Carswell's victory speech Watch](/news/uk-politics-29563776)
+ [Carswell's victory speech Watch](/news/uk-politics-29563776) Watch
 * * *
 
-## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
+## [![A member of staff stands in the Check-In area of Terminal 5 at Heathrow](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126421_78121102.jpg)Minister backs Ebola screening plan](/news/uk-29564092)
 
-Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
+Home Office Minister Norman Baker defends the government's decision to change its mind on screening some people arriving in the UK for Ebola.
 
-## [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976)
- [![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)Ex-DJ 'raped girl with Jimmy Savile'](/news/uk-29523976) ![Ray Teret](http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067194_78065907.jpg)
+- [Ebola basics: What you need to know](/news/health-29556006)
+- [Ebola screening: Will it work?](/news/health-29549722)
+- ['We won't put UK population at risk' Watch](/news/uk-29547990)
+- [Ebola challenge 'biggest since Aids'](/news/world-africa-29555849)
 
-Former radio DJ Ray Teret raped a 15-year-old girl "acting together" with the late TV presenter Jimmy Savile, a court in Manchester hears.
+## [![A member of staff stands in the Check-In area of Terminal 5 at Heathrow](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126421_78121102.jpg)Minister backs Ebola screening plan](/news/uk-29564092)
+ [![A member of staff stands in the Check-In area of Terminal 5 at Heathrow](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126421_78121102.jpg)Minister backs Ebola screening plan](/news/uk-29564092) ![A member of staff stands in the Check-In area of Terminal 5 at Heathrow](http://news.bbcimg.co.uk/media/images/78126000/jpg/_78126421_78121102.jpg)
 
-## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
+Home Office Minister Norman Baker defends the government's decision to change its mind on screening some people arriving in the UK for Ebola.
 
-The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
+- [Ebola basics: What you need to know](/news/health-29556006)
+- [Ebola screening: Will it work?](/news/health-29549722)
+- ['We won't put UK population at risk' Watch](/news/uk-29547990)
+- [Ebola challenge 'biggest since Aids'](/news/world-africa-29555849)
+- [Ebola basics: What you need to know](/news/health-29556006)
+ [Ebola basics: What you need to know](/news/health-29556006)- [Ebola screening: Will it work?](/news/health-29549722)
+ [Ebola screening: Will it work?](/news/health-29549722)- ['We won't put UK population at risk' Watch](/news/uk-29547990)
+ ['We won't put UK population at risk' Watch](/news/uk-29547990) Watch- [Ebola challenge 'biggest since Aids'](/news/world-africa-29555849)
+ [Ebola challenge 'biggest since Aids'](/news/world-africa-29555849)
 
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
-- [Airport expansion: The options](/news/uk-19570653)
-- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
+## [![Computer eye](http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113871_childcomputereye.jpg)Parents face online homework dilemma](/news/education-29550335)
 
-## [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800)
- [![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)Lib Dems reject airports U-turn](/news/uk-politics-29515800) ![Gatwick Airport](http://news.bbcimg.co.uk/media/images/78055000/jpg/_78055565_78055559.jpg)
+Parents feel unable to make children study by blocking internet access, as homework often requires online research, a survey suggests.
 
-The Liberal Democrat leadership is defeated over a plan to allow possible expansion at Gatwick Airport.
+- [New term, new battle over homework](/news/education-24126000)
+- [New free school could drop homework](/news/uk-england-norfolk-22788697)
+- [Gove scraps homework guidelines](/news/education-17250653)
 
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
-- [Airport expansion: The options](/news/uk-19570653)
-- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
-- [Liberal Democrat conference Live](/news/live/uk-politics-29518585)
- [Liberal Democrat conference Live](/news/live/uk-politics-29518585) Live- [Airport expansion: The options](/news/uk-19570653)
- [Airport expansion: The options](/news/uk-19570653)- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
- [Get a good man, advises Clegg's wife](/news/uk-politics-29515805)
+## [![Computer eye](http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113871_childcomputereye.jpg)Parents face online homework dilemma](/news/education-29550335)
+ [![Computer eye](http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113871_childcomputereye.jpg)Parents face online homework dilemma](/news/education-29550335) ![Computer eye](http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113871_childcomputereye.jpg)
+
+Parents feel unable to make children study by blocking internet access, as homework often requires online research, a survey suggests.
+
+- [New term, new battle over homework](/news/education-24126000)
+- [New free school could drop homework](/news/uk-england-norfolk-22788697)
+- [Gove scraps homework guidelines](/news/education-17250653)
+- [New term, new battle over homework](/news/education-24126000)
+ [New term, new battle over homework](/news/education-24126000)- [New free school could drop homework](/news/uk-england-norfolk-22788697)
+ [New free school could drop homework](/news/uk-england-norfolk-22788697)- [Gove scraps homework guidelines](/news/education-17250653)
+ [Gove scraps homework guidelines](/news/education-17250653)
 - 
-## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
+## [Trojan school and council 'mistrust'](/news/uk-england-birmingham-29549384)
 
-A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
-
-- 
-## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
-
-A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
-
-- 
-## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
-
-A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
-
-- 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
-
-- 
-## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
-
-- 
-## [Four men arrested on terror charges](/news/uk-29519757)
+The relationship between a school named in the so-called Trojan Horse letter and Birmingham council has broken down, a report says.
 
 - 
-## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
+
+Pay in the private sector is likely to rise faster than public sector wages in the next four years, according to a report.
 
 - 
-## [Bahrain prince torture ruling quashed](/news/uk-29521420)
+## [Antibiotic resistance rise continues](/news/health-29553435)
+
+Antibiotics prescriptions and cases of resistant bacteria in England have continued to soar despite dire warnings and campaigns, figures show.
 
 - 
-## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
+## [Badger cull appeal judgment reserved](/news/uk-england-29560524)
 
 - 
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
+## [FTSE 100 and oil price hit fresh lows](/news/business-29548550)
 
 - 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+## [NI Executive agrees to £100m loan](/news/uk-northern-ireland-29562432)
 
 - 
-## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
+## [Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)
 
 - 
-## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
+## [Power cut off in Caerphilly siege](/news/uk-wales-south-east-wales-29562268)
 
 - 
-## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
+## [Jet crash pupils get bravery awards](/news/uk-england-lincolnshire-29558955)
 
 - 
-## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
-
-A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
-
-## ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
- ['Culture of fear' at children's homes](/news/uk-wales-north-east-wales-29524215)
-
-A hotelier who opened a string of children's homes in north Wales created a "sexualised atmosphere alongside a culture of fear" as he abused 20 children in his care, a jury has heard.
+## [Police 'detain' wandering wallaby](/news/uk-england-york-north-yorkshire-29557983)
 
 - 
-## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
-
-A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
-
-## [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
- [Dog sent to attack wheelchair girl](/news/uk-england-northamptonshire-29526697)
-
-A girl in a wheelchair is bitten by a dog, which was set on her by two men as she went through woods with her father.
+## [Dewani fixer 'knew of murder plot'](/news/uk-england-bristol-29549000)
 
 - 
-## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
-
-A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
-
-## [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
- [Hammer victim 'lost part of brain'](/news/uk-england-london-29519602)
-
-A woman who was attacked by a man wielding a claw hammer at a four-star hotel in central London "lost part of her brain", a court hears.
+## [Ex-RAF officer guilty of sex abuse](/news/uk-29559163)
 
 - 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
+## [Fifth man held in terrorism probe](/news/uk-29559582)
 
-## [Begg 'offered to help free Henning'](/news/uk-29518323)
- [Begg 'offered to help free Henning'](/news/uk-29518323)- 
-## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
+- 
+## [Trojan school and council 'mistrust'](/news/uk-england-birmingham-29549384)
 
-## [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)
- [Tube staff to hold 48-hour strike](/news/uk-england-london-29516508)- 
-## [Four men arrested on terror charges](/news/uk-29519757)
+The relationship between a school named in the so-called Trojan Horse letter and Birmingham council has broken down, a report says.
 
-## [Four men arrested on terror charges](/news/uk-29519757)
- [Four men arrested on terror charges](/news/uk-29519757)- 
-## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
+## [Trojan school and council 'mistrust'](/news/uk-england-birmingham-29549384)
+ [Trojan school and council 'mistrust'](/news/uk-england-birmingham-29549384)
 
-## [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)
- [Police investigate baby boy's death](/news/uk-wales-north-east-wales-29526246)- 
-## [Bahrain prince torture ruling quashed](/news/uk-29521420)
+The relationship between a school named in the so-called Trojan Horse letter and Birmingham council has broken down, a report says.
 
-## [Bahrain prince torture ruling quashed](/news/uk-29521420)
- [Bahrain prince torture ruling quashed](/news/uk-29521420)- 
-## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
+- 
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
 
-## [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)
- [Ballymena cigarette factory to close](/news/uk-northern-ireland-29527169)- 
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
+Pay in the private sector is likely to rise faster than public sector wages in the next four years, according to a report.
 
-## [Banker admits Libor fraud conspiracy](/news/business-29520685)
- [Banker admits Libor fraud conspiracy](/news/business-29520685)- 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
+## [Private sector pay 'to rise fastest'](/news/business-29552993)
+ [Private sector pay 'to rise fastest'](/news/business-29552993)
 
-## [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)
- [Morrissey 'reveals cancer treatment'](/news/entertainment-arts-29524966)- 
-## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
+Pay in the private sector is likely to rise faster than public sector wages in the next four years, according to a report.
 
-## [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)
- [Murder probe after 'horrific attack'](/news/uk-scotland-glasgow-west-29519391)- 
-## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
+- 
+## [Antibiotic resistance rise continues](/news/health-29553435)
 
-## [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)
- [Friends 'digging' for missing teen](/news/uk-england-hampshire-29524327)- 
-## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
+Antibiotics prescriptions and cases of resistant bacteria in England have continued to soar despite dire warnings and campaigns, figures show.
 
-## [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
- [Crossbow killer targets fifth goat](/news/uk-wales-north-west-wales-29517991)
+## [Antibiotic resistance rise continues](/news/health-29553435)
+ [Antibiotic resistance rise continues](/news/health-29553435)
+
+Antibiotics prescriptions and cases of resistant bacteria in England have continued to soar despite dire warnings and campaigns, figures show.
+
+- 
+## [Badger cull appeal judgment reserved](/news/uk-england-29560524)
+
+## [Badger cull appeal judgment reserved](/news/uk-england-29560524)
+ [Badger cull appeal judgment reserved](/news/uk-england-29560524)- 
+## [FTSE 100 and oil price hit fresh lows](/news/business-29548550)
+
+## [FTSE 100 and oil price hit fresh lows](/news/business-29548550)
+ [FTSE 100 and oil price hit fresh lows](/news/business-29548550)- 
+## [NI Executive agrees to £100m loan](/news/uk-northern-ireland-29562432)
+
+## [NI Executive agrees to £100m loan](/news/uk-northern-ireland-29562432)
+ [NI Executive agrees to £100m loan](/news/uk-northern-ireland-29562432)- 
+## [Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)
+
+## [Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)
+ [Scots budget helps first-time buyers](/news/uk-scotland-scotland-politics-29536022)- 
+## [Power cut off in Caerphilly siege](/news/uk-wales-south-east-wales-29562268)
+
+## [Power cut off in Caerphilly siege](/news/uk-wales-south-east-wales-29562268)
+ [Power cut off in Caerphilly siege](/news/uk-wales-south-east-wales-29562268)- 
+## [Jet crash pupils get bravery awards](/news/uk-england-lincolnshire-29558955)
+
+## [Jet crash pupils get bravery awards](/news/uk-england-lincolnshire-29558955)
+ [Jet crash pupils get bravery awards](/news/uk-england-lincolnshire-29558955)- 
+## [Police 'detain' wandering wallaby](/news/uk-england-york-north-yorkshire-29557983)
+
+## [Police 'detain' wandering wallaby](/news/uk-england-york-north-yorkshire-29557983)
+ [Police 'detain' wandering wallaby](/news/uk-england-york-north-yorkshire-29557983)- 
+## [Dewani fixer 'knew of murder plot'](/news/uk-england-bristol-29549000)
+
+## [Dewani fixer 'knew of murder plot'](/news/uk-england-bristol-29549000)
+ [Dewani fixer 'knew of murder plot'](/news/uk-england-bristol-29549000)- 
+## [Ex-RAF officer guilty of sex abuse](/news/uk-29559163)
+
+## [Ex-RAF officer guilty of sex abuse](/news/uk-29559163)
+ [Ex-RAF officer guilty of sex abuse](/news/uk-29559163)- 
+## [Fifth man held in terrorism probe](/news/uk-29559582)
+
+## [Fifth man held in terrorism probe](/news/uk-29559582)
+ [Fifth man held in terrorism probe](/news/uk-29559582)
