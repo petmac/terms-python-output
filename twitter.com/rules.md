@@ -8,9 +8,9 @@ Please note that we may need to change these rules from time to time and reserve
 
 In order to provide the Twitter service and the ability to communicate and stay connected with others, there are some limitations on the type of content that can be published with Twitter.
 
-  * **[Trademark](/articles/18367)**: We reserve the right to reclaim usernames on behalf of businesses or individuals that hold legal claim or trademark on those usernames. Accounts using business names and/or logos to mislead others may be permanently suspended.
-  * **[Copyright](/articles/15795)**: We will respond to clear and complete notices of alleged copyright infringement. Our copyright procedures are set forth in the Terms of Service.
-  * **Graphic content**: You may not use pornographic or excessively violent media in your profile image or header image. Twitter may allow some forms of graphic content in Tweets marked as [sensitive media](/articles/20169200?lang=en). When content crosses the line into gratuitous images of death, Twitter may ask that you remove the content out of respect for the deceased. 
+  * **[Trademark](https://twitter.com/articles/18367)**: We reserve the right to reclaim usernames on behalf of businesses or individuals that hold legal claim or trademark on those usernames. Accounts using business names and/or logos to mislead others may be permanently suspended.
+  * **[Copyright](https://twitter.com/articles/15795)**: We will respond to clear and complete notices of alleged copyright infringement. Our copyright procedures are set forth in the Terms of Service.
+  * **Graphic content**: You may not use pornographic or excessively violent media in your profile image or header image. Twitter may allow some forms of graphic content in Tweets marked as [sensitive media](https://twitter.com/articles/20169200?lang=en). When content crosses the line into gratuitous images of death, Twitter may ask that you remove the content out of respect for the deceased. 
   * **Unlawful use**: You may not use our service for any unlawful purposes or in furtherance of illegal activities. International users agree to comply with all local laws regarding online conduct and acceptable content.
   * **Misuse of Twitter badges**: You may not use badges, such as but not limited to the “promoted” or “verified” Twitter badge, unless provided by Twitter. Accounts using these badges as part of profile photos, header photos, or in a way that falsely implies affiliation with Twitter, may be suspended.
 
@@ -30,8 +30,8 @@ Any accounts and related accounts engaging in the activities specified below may
     * if the reported account is sending harassing messages to an account from multiple accounts.
   * **Hateful conduct**: You may not promote violence against or directly attack or threaten other people on the basis of race, ethnicity, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or disease. We also do not allow accounts whose primary purpose is inciting harm towards others on the basis of these categories. 
   * **Multiple account abuse**: Creating multiple accounts with overlapping uses or in order to evade the temporary or permanent suspension of a separate account is not allowed.
-  * **Private information**: You may not publish or post other people's private and confidential information, such as credit card numbers, street address, or Social Security/National Identity numbers, without their express authorization and permission. In addition, you may not post intimate photos or videos that were taken or distributed without the subject's consent. Read more about our private information policy [here](/articles/20169991).
-  * **Impersonation**: You may not impersonate others through the Twitter service in a manner that is intended to or does mislead, confuse, or deceive others. Read more about our impersonation policy [here](/articles/18366).
+  * **Private information**: You may not publish or post other people's private and confidential information, such as credit card numbers, street address, or Social Security/National Identity numbers, without their express authorization and permission. In addition, you may not post intimate photos or videos that were taken or distributed without the subject's consent. Read more about our private information policy [here](https://twitter.com/articles/20169991).
+  * **Impersonation**: You may not impersonate others through the Twitter service in a manner that is intended to or does mislead, confuse, or deceive others. Read more about our impersonation policy [here](https://twitter.com/articles/18366).
   * **Self-harm**: You may encounter someone considering suicide or self harm on Twitter. When we receive reports that a person is threatening suicide or self harm, we may take a number of steps to assist them, such as reaching out to that person expressing our concern and the concern of other users on Twitter or providing resources such as contact information for our mental health partners.
 
 
@@ -41,7 +41,7 @@ Any accounts and related accounts engaging in the activities specified below may
 We strive to protect people on Twitter from technical abuse and spam. Any accounts engaging in the activities specified below may be temporarily locked or subject to permanent suspension.  
 
 
-  * [**Username squatting**](/articles/18370): You may not engage in username squatting. Accounts that are inactive for more than six months may also be removed without further notice. Some of the factors we take into consideration when determining what conduct is considered to be username squatting are:
+  * [**Username squatting**](https://twitter.com/articles/18370): You may not engage in username squatting. Accounts that are inactive for more than six months may also be removed without further notice. Some of the factors we take into consideration when determining what conduct is considered to be username squatting are:
     * the number of accounts created;
     * creating accounts for the purpose of preventing others from using those account names;
     * creating accounts for the purpose of selling those accounts; and
@@ -70,7 +70,7 @@ We strive to protect people on Twitter from technical abuse and spam. Any accoun
 
 
 
-See our support articles on [Following rules and best practices](/articles/68916) and [Automation rules and best practices](/articles/76915) for more detailed information about how the Rules apply to those particular account behaviors. Accounts created to replace suspended accounts will be permanently suspended.
+See our support articles on [Following rules and best practices](https://twitter.com/articles/68916) and [Automation rules and best practices](https://twitter.com/articles/76915) for more detailed information about how the Rules apply to those particular account behaviors. Accounts created to replace suspended accounts will be permanently suspended.
 
 Accounts under investigation may be removed from search for quality. Twitter reserves the right to immediately terminate your account without further notice in the event that, in its judgment, you violate these Rules or the [Terms of Service](https://twitter.com/tos).
 
