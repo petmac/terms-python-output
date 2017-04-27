@@ -117,9 +117,9 @@ When developers copy someone else’s work or deceive users, it hurts users and 
 
 We don’t allow apps or developer accounts that impersonate other entities, brands, or otherwise infringe on intellectual property rights of others (including trademark, copyright, patent, trade secret, and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights. 
 
-We will respond to clear notices of alleged copyright infringement. For more information or to file a DMCA request, please visit our [ copyright procedures](https://support.google.com/legal/answer/3110420?product=androidmarket&rd=2&hl=en). 
+We will respond to clear notices of alleged copyright infringement. For more information or to file a DMCA request, please visit our [copyright procedures](https://support.google.com/legal/answer/3110420?product=androidmarket&rd=2&hl=en). 
 
-If you are a trademark owner and you believe there is an app on Google Play that infringes on your trademark rights, we encourage you to reach out to the developer directly to resolve your concern. If you are unable to reach a resolution with the developer, please submit a trademark complaint through this [ form](https://support.google.com/legal/contact/lr_trademark?product=googleplay&vid=null). 
+If you are a trademark owner and you believe there is an app on Google Play that infringes on your trademark rights, we encourage you to reach out to the developer directly to resolve your concern. If you are unable to reach a resolution with the developer, please submit a trademark complaint through this [form](https://support.google.com/legal/contact/lr_trademark?product=googleplay&vid=null). 
 
 If you have written documentation proving that you have permission to use a third party's intellectual property in your app or store listing (such as brand names, logos and graphic assets), [contact the Google Play team](https://support.google.com/googleplay/android-developer/answer/6320428) in advance of your submission to ensure that your app is not rejected for an Impersonation or Intellectual Property violation. 
 
@@ -147,7 +147,7 @@ We don’t allow apps that use another app or entity’s brand, title, logo, or 
 ![](https://services.google.com/fh/files/helpcenter/playpolicy-impersonation02.png)
   * Apps that falsely claim to be the official app of an established entity. Titles like “Justin Bieber Official” are not allowed without the necessary permissions or rights. 
 
-  * Apps that violate the [Android Brand Guidelines](https://developer.android.com/intl/distribute/tools/promote/brand.html). 
+  * Apps that violate the [Android Brand Guidelines](https://developer.android.com/distribute/tools/promote/brand.html). 
 
 
 
@@ -343,7 +343,7 @@ You must be transparent in how you handle user data (e.g., information provided 
 
 If your app handles personal or sensitive user data (including personally identifiable information, financial and payment information, authentication information, phonebook or contact data, microphone and camera sensor data, and sensitive device data) then your app must: 
 
-  * Post a privacy policy in both the designated field in the Play Developer Console and from within the Play distributed app itself. 
+  * Post a privacy policy in both the designated field in the Play Console and from within the Play distributed app itself. 
   * Handle the user data securely, including transmitting it using modern cryptography (for example, over HTTPS). 
 
   
@@ -426,6 +426,8 @@ All apps on Google Play that collect user data must comply with the [User Data](
 
 
 
+Check out our [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers on Google Play. Vulnerability and remediation details are available in each campaign's support page link. 
+
 #  Monetization and Ads 
 
 Google Play supports a variety of monetization strategies to benefit developers and users, including paid distribution, in-app products, subscriptions, and ad-based models. To ensure the best user experience, we require you to comply with these policies. 
@@ -485,7 +487,7 @@ You (as the content or access provider) may implement a more flexible refund pol
 
 ##  Ads 
 
-We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://play.google.com/intl/en/about/restricted-content/gambling/). 
+We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://play.google.com/about/restricted-content/gambling/). 
 
 [
 
@@ -705,7 +707,7 @@ Developers must not attempt to manipulate the placement of any apps in the Store
 
 
 
-#  Families 
+#  Families and COPPA 
 
 Google Play offers a rich platform for developers to showcase trusted, high-quality and age appropriate content for the whole family. Before submitting an app to the Designed for Families program, ensure your app is appropriate for children and compliant with COPPA and other relevant laws. 
 
@@ -721,9 +723,9 @@ Before you opt-in, your app must meet all the Designed for Families program requ
 
 ](https://play.google.com/about/families/designed-for-families/program-requirements/)
 
-#####  Eligibility Criteria 
+#####  Eligibility 
 
-Apps that apply for the [Designed for Families](https://developer.android.com/distribute/googleplay/families/about.html) program must comply with the following eligibility criteria. General audience apps must be relevant and useable by children under the age of 13. Google Play reserves the right to reject or remove any app determined to be inappropriate for the Designed for Families program. 
+All apps participating in the Designed for Families program must be relevant for children under the age of 13 and comply with the eligibility criteria below. Google Play reserves the right to reject or remove any app determined to be inappropriate for the Designed for Families program. 
 
 ######  Eligibility Criteria 
 
@@ -741,6 +743,10 @@ Apps that apply for the [Designed for Families](https://developer.android.com/di
   5. If your app targets child audiences and uses the [Android Speech API](http://developer.android.com/reference/android/speech/package-summary.html), your app's RecognizerIntent.EXTRA_CALLING_PACKAGE must be set to its PackageName. 
   6. You must add a link to your app's privacy policy on your app's Store Listing page. 
   7. You represent that apps submitted to Designed for Families are compliant with COPPA (Children’s Online Privacy Protection Rule) and other relevant statutes, including any APIs that your app uses to provide the service. 
+  8. If your app uses Augmented Reality, you must include a safety warning upon launch of the app that contains the following: 
+    1. 8.1 An appropriate message about the importance of parental supervision 
+    2. 8.2 A reminder to be aware of physical hazards in the real world (e.g., be aware of your surroundings) 
+  9. Daydream apps are not eligible to participate in the Designed for Families program. 
 
   
 
@@ -772,6 +778,8 @@ Here are the age groups available for apps primarily directed to children in the
   
 
 
+Apps declared as primarily child-directed may not choose Mixed Audience as an age group. 
+
 When you opt-in, select an age group based on your app's primary target audience. If you include an age group in your app's title or description, this is considered your app's primary age target during review.You should only select two age groups if you've designed your app for users in both age groups. Your app's content needs to be appropriate for children in each age group. For example: Apps designed for babies, toddlers, and preschool children should only select “Ages 5 &amp; Under.” If your app is designed for a specific grade level, choose the age range the best represents the grade. 
 
 **Mixed Audience**
@@ -782,7 +790,7 @@ If your app is not designed for audiences that include children under the age of
 
 **Updates to Age**
 
-After you've been accepted to the Designed for Families program, if you need to update your app's age group, you can update your information using the Developer Console. 
+After you've been accepted to the Designed for Families program, if you need to update your app's age group, you can update your information using the Play Console. 
 
 We strongly recommend you let your existing users know if you change the target age level of your app or start using ads or in-app purchases using the "What's New" section of your app's **Store Listing** page. 
 
@@ -917,7 +925,7 @@ If your app is part of the Google Play for Education program and has Google sign
 
 If your app appeals to a mixed audience, and you wish to provide a sign-in option in your game, follow section 1.1.2 of [this checklist](https://developers.google.com/games/services/checklist)**.**
 
-##  COPPA Compliance 
+##  COPPA Compliance and Child-Directed Apps 
 
 Understanding the nuances of integrating Google services and being COPPA compliant is important when distributing child-directed apps. The Children’s Online Privacy Protection Act, or [ COPPA](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), applies to websites, apps, and services directed to children under the age of 13 and general audience apps, websites, or services with users known to be under the age of 13. 
 
@@ -938,6 +946,14 @@ If your app is child-directed, you'll find information about integrating Google 
 You can find more information about the differences between mixed audience apps and apps directed primarily to children on the [ FTC’s website](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions). 
 
 **Note**: While child-directed apps may use some Google services, developers are responsible for using these services according to their obligations under the law. Please review the FTC’s guidance on COPPA and consult with your own legal counsel. 
+
+[
+
+###  Primarily Child-Directed Declaration 
+
+](https://play.google.com/about/families/coppa-compliance/primary/)
+
+You must declare in the Play Console whether your app is primarily directed to children under the age of 13 as defined by [COPPA](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Web%20sites%20and%20online). Apps that are primarily child-directed must opt-in to the Designed for Families program. 
 
 [
 
