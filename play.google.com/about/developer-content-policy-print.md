@@ -1,10 +1,10 @@
-#  Let's build the world's most trusted store for apps and games 
+#  Let's build the world's most trusted source for apps and games 
 
 Your innovation is what drives our shared success, but with it comes responsibility. These Developer Program Policies, along with the [Developer Distribution Agreement](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies through the interactive tiles below or in a [print view](https://play.google.com/about/developer-content-policy-print.html). 
 
 #  Restricted Content 
 
-People from all over the world use Google Play to download apps and games every day. Before submitting an app, ask yourself if your app is appropriate for the Store and compliant with local laws. 
+People from all over the world use Google Play to access apps and games every day. Before submitting an app, ask yourself if your app is appropriate for Google Play and compliant with local laws. 
 
 ##  Sexually Explicit Content 
 
@@ -284,7 +284,7 @@ Additionally, we do not allow:
 
 ##  Spam 
 
-We don’t allow apps that spam users or the Store, such as apps that send users unsolicited messages or apps that are duplicative and low-quality. 
+We don’t allow apps that spam users or Google Play, such as apps that send users unsolicited messages or apps that are duplicative and low-quality. 
 
 [
 
@@ -402,12 +402,13 @@ Apps on Google Play must comply with the default Android system optimization req
 
 We don’t allow apps that steal data, secretly monitor or harm users, or are otherwise malicious. 
 
-All apps on Google Play that collect user data must comply with the [User Data](https://play.google.com/about/privacy-security/user-data/) policy and fully disclose its functions. An app downloaded from Google Play may not modify, replace, or update itself using any method other than Google Play's update mechanism. 
+An app distributed via Google Play may not modify, replace, or update itself using any method other than Google Play’s update mechanism. Likewise, an app may not download executable code (e.g. dex, JAR, .so files) from a source other than Google Play. This restriction does not apply to code that runs in a virtual machine and has limited access to Android APIs (such as JavaScript in a webview or browser). 
 
 ####  The following are explicitly prohibited: 
 
   * Viruses, trojan horses, malware, spyware or any other malicious software. 
   * Apps that link to or facilitate the distribution or installation of malicious software. 
+  * Apps or SDKs that download executable code, such as dex files or native code, from a source other than Google Play. 
   * Apps that introduce or exploit security vulnerabilities. 
   * Apps that steal a user’s authentication information (such as usernames or passwords) or that mimic other apps or websites to trick users into disclosing personal or authentication information. 
   * Apps that install other apps on a device without the user’s prior consent. 
@@ -421,7 +422,7 @@ All apps on Google Play that collect user data must comply with the [User Data](
   * Apps must not present themselves as a spying or secret surveillance solution. 
   * Apps must not hide or cloak tracking behavior or attempt to mislead users about such functionality. 
   * Present users with a persistent notification and unique icon that clearly identifies the app. 
-  * Apps and app listings on Google Play must not provide any means to activate or access functionality that violate these terms, such as linking to a non-compliant APK hosted outside the Store. 
+  * Apps and app listings on Google Play must not provide any means to activate or access functionality that violate these terms, such as linking to a non-compliant APK hosted outside Google Play. 
   * You are solely responsible for determining the legality of your app in its targeted locale. Apps determined to be unlawful in locations where they are published will be removed. 
 
 
@@ -481,7 +482,7 @@ Apps that employ in-store or in-app purchases must comply with the following gui
 
 ##  Subscriptions and Cancellations 
 
-If a user cancels a subscription purchased from an app downloaded on Google Play, our policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. 
+If a user cancels a subscription purchased from an app on Google Play, our policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. 
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your refund policies and ensure that the policies comply with applicable law. 
 
@@ -605,13 +606,13 @@ Google Play Services version 4.0 introduced new APIs and an ID for use by advert
   * **Association with personally-identifiable information or other identifiers**. The advertising identifier must not be connected to personally-identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) without explicit consent of the user. 
   * **Respecting users' selections**. If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user. Also, you must abide by a user’s “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalized advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection. 
   * **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User Data](https://play.google.com/about/privacy-security/user-data/) policy. 
-  * **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. Beginning August 1st 2014, all updates and new apps uploaded to the Play Store must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes. 
+  * **Abiding by the terms of use**. The advertising identifier may only be used in accordance with these terms, including by any party that you may share it with in the course of your business. Beginning August 1st 2014, all updates and new apps uploaded to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes. 
 
 
 
 #  Store Listing and Promotion 
 
-The promotion and visibility of your app dramatically affects Store quality. Avoid spammy Store listings, low quality promotion, and efforts to artificially boost app visibility on the Store. 
+The promotion and visibility of your app dramatically affects store quality. Avoid spammy store listings, low quality promotion, and efforts to artificially boost app visibility on Google Play. 
 
 ##  App Promotion 
 
@@ -654,9 +655,9 @@ We don’t allow apps with misleading, irrelevant, excessive, or inappropriate m
 
 
   * Imagery or videos with sexually suggestive content. Avoid suggestive imagery containing breasts, buttocks, genitalia, or other fetishized anatomy or content, whether illustrated or real. 
-  * Language inappropriate for a general audience. Avoid profane and vulgar language in your app listing. If it is a critical element of your app, you must censor its presentation within the Store listing. 
+  * Language inappropriate for a general audience. Avoid profane and vulgar language in your app listing. If it is a critical element of your app, you must censor its presentation within the store listing. 
   * Graphic violence prominently depicted in app icons, promotional images, or videos. 
-  * Depictions of the illicit usage of drugs. Even EDSA (Educational, Documentary, Scientific, or Artistic) content must be suitable for all audiences within the Store listing. 
+  * Depictions of the illicit usage of drugs. Even EDSA (Educational, Documentary, Scientific, or Artistic) content must be suitable for all audiences within the store listing. 
 
   
 
@@ -676,7 +677,7 @@ We don’t allow apps with misleading, irrelevant, excessive, or inappropriate m
 
 ##  Ratings, Reviews, and Installs 
 
-Developers must not attempt to manipulate the placement of any apps in the Store. This includes inflating product ratings or reviews by illegitimate means, such as fraudulent installs and incentivized, paid, or fake reviews and ratings. 
+Developers must not attempt to manipulate the placement of any apps in Google Play. This includes, but is not limited to, inflating product ratings, reviews, or install counts by illegitimate means, such as fraudulent or incentivized installs, reviews and ratings. 
 
 ####  Here are some examples of common violations: 
 
@@ -689,7 +690,7 @@ Developers must not attempt to manipulate the placement of any apps in the Store
   * ① This notification offers users a discount in exchange for a high rating. 
   *   
 
-  * Repeatedly submitting ratings to influence the app’s placement on the Google Play Storefront. 
+  * Repeatedly submitting ratings to influence the app’s placement on Google Play. 
   * Submitting or encouraging users to submit reviews containing inappropriate content, including affiliates, coupons, game codes, email addresses, or links to websites or other apps: 
 
 ![](https://services.google.com/fh/files/helpcenter/playpolicy-ratings02.png)
@@ -741,7 +742,7 @@ All apps participating in the Designed for Families program must be relevant for
     3. 3.3 Shares the user's physical location with other users 
   4. Apps that target child audiences may not use Google sign-in or Google Play Game Services as the login experience for their app. Apps that target both children and older audiences (mixed audience), can use Google sign-in or Google Play Game Services as an optional feature. 
   5. If your app targets child audiences and uses the [Android Speech API](http://developer.android.com/reference/android/speech/package-summary.html), your app's RecognizerIntent.EXTRA_CALLING_PACKAGE must be set to its PackageName. 
-  6. You must add a link to your app's privacy policy on your app's Store Listing page. 
+  6. You must add a link to your app's privacy policy on your app's store listing page. 
   7. You represent that apps submitted to Designed for Families are compliant with COPPA (Children’s Online Privacy Protection Rule) and other relevant statutes, including any APIs that your app uses to provide the service. 
   8. If your app uses Augmented Reality, you must include a safety warning upon launch of the app that contains the following: 
     1. 8.1 An appropriate message about the importance of parental supervision 
@@ -792,11 +793,11 @@ If your app is not designed for audiences that include children under the age of
 
 After you've been accepted to the Designed for Families program, if you need to update your app's age group, you can update your information using the Play Console. 
 
-We strongly recommend you let your existing users know if you change the target age level of your app or start using ads or in-app purchases using the "What's New" section of your app's **Store Listing** page. 
+We strongly recommend you let your existing users know if you change the target age level of your app or start using ads or in-app purchases using the "What's New" section of your app's store listing page. 
 
 #####  Categories 
 
-When you opt-in to the Designed for Families program, you can choose a category. Your app will also be available on Google Play in the general app category you select on your app's **Store Listing** page. 
+When you opt-in to the Designed for Families program, you can choose a category. Your app will also be available on Google Play in the general app category you select on your app's store listing page. 
 
 Here are the categories available for Designed for Families: 
 
