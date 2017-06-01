@@ -367,6 +367,25 @@ If your app collects and transmits personal or sensitive user data unrelated to 
 
 [
 
+###  EU-U.S. Privacy Shield 
+
+](https://play.google.com/about/privacy-security/privacy-shield/)
+
+######  Privacy Shield 
+
+If you access, use, or process personal information made available by Google that directly or indirectly identifies an individual and that originated in the European Union or Switzerland (“EU Personal Information”), then you must: 
+
+  * comply with all applicable privacy, data security, and data protection laws, directives, regulations, and rules; 
+  * access, use or process EU Personal Information only for purposes that are consistent with the consent obtained from the individual to whom the EU Personal Information relates; 
+  * implement appropriate organizational and technical measures to protect EU Personal Information against loss, misuse, and unauthorized or unlawful access, disclosure, alteration and destruction; and 
+  * provide the same level of protection as is required by the [Privacy Shield Principles](https://www.privacyshield.gov/EU-US-Framework). 
+
+
+
+You must monitor your compliance with these conditions on a regular basis. If, at any time, you cannot meet these conditions (or if there is a significant risk that you will not be able to meet them), you must immediately notify us by email to [data-protection-office@google.com](mailto:data-protection-office@google.com) and immediately either stop processing EU Personal Information or take reasonable and appropriate steps to restore an adequate level of protection. 
+
+[
+
 ###  Additional Requirements 
 
 ](https://play.google.com/about/privacy-security/additional-requirements/)
