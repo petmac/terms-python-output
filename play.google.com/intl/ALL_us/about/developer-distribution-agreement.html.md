@@ -2,7 +2,7 @@
 
 #  Google Play Developer Distribution Agreement 
 
-##  Effective as of May 17, 2017 ([view archived version](https://play.google.com/about/developer-distribution-agreement/archive.html)) 
+##  Effective as of May 17, 2017 ([view archived version](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement/archive.html)) 
 
 ##  Definitions 
 
@@ -22,7 +22,7 @@
 
 **Payment Account:** A financial account issued by a Payment Processor to a Developer that authorizes the Payment Processor to collect and remit payments on the Developer's behalf for Products sold via Google Play Developers must be approved by a Payment Processor for a Payment Account and maintain their account in good standing to charge for Products distributed via Google Play. 
 
-**Payment Processor(s)**: As specified and designated in the [Developer Program Policies](https://play.google.com/intl/None/about/developer-content-policy/), a party authorized by Google to provide services that enable Developers with Payment Accounts to charge users for Products distributed via Google Play. 
+**Payment Processor(s)**: As specified and designated in the [Developer Program Policies](https://play.google.com/intl/ALL_us/about/developer-content-policy/), a party authorized by Google to provide services that enable Developers with Payment Accounts to charge users for Products distributed via Google Play. 
 
 **Play Console**: The Google Play Console and other online tools or services provided by Google to developers to manage the distribution of Products and related functions. 
 
@@ -48,7 +48,7 @@
 
 3.2 Products are displayed to users on your behalf, at prices you establish in your sole discretion. Google may include applicable taxes in the price charged to users of Google Play. You may set the price for your Products in the currencies permitted by the Payment Processor. Google may display the price of Products to users in their native currency, but it is not responsible for the accuracy of currency rates or currency conversion. 
 
-3.3 You are the merchant of record for Products you sell through Google Play. For a given transaction, you are contracting with the applicable Google entity based on where you have selected to distribute your Product (as set forth [here](https://support.google.com/googleplay/android-developer/table/3539140?hl=en)). The price you set for Products will determine the amount of payment you will receive. A Transaction Fee, as defined below, will be charged on the sales price and apportioned to the Payment Processor and, if one exists, the Authorized Carrier. Where either Google, the Payment Processor or the Authorized Carrier are required by applicable (local) legislation to withhold any taxes ("Withholding Taxes") on payments made or received by anyone of them, Google will also deduct an amount equal to such Withholding Taxes from the sales price. For the avoidance of doubt, Withholding Taxes include, but are not limited to, withholding tax obligations on cross-border payments or imposed by telecommunications taxes. The remainder (sales price less Transaction Fee, and less the amount equal to any Withholding Taxes) will be remitted to you. The "Transaction Fee" is set forth here and may be revised by Google from time to time. You are responsible for providing any applicable tax residency certificates to Google. If Google or its service provider does not receive such documentation, Google will withhold at the domestic withholding tax rate. 
+3.3 You are the merchant of record for Products you sell through Google Play. For a given transaction, you are contracting with the applicable Google entity based on where you have selected to distribute your Product (as set forth [here](https://support.google.com/googleplay/android-developer/answer/112622?hl=en)). The price you set for Products will determine the amount of payment you will receive. A Transaction Fee, as defined below, will be charged on the sales price and apportioned to the Payment Processor and, if one exists, the Authorized Carrier. Where either Google, the Payment Processor or the Authorized Carrier are required by applicable (local) legislation to withhold any taxes ("Withholding Taxes") on payments made or received by anyone of them, Google will also deduct an amount equal to such Withholding Taxes from the sales price. For the avoidance of doubt, Withholding Taxes include, but are not limited to, withholding tax obligations on cross-border payments or imposed by telecommunications taxes. The remainder (sales price less Transaction Fee, and less the amount equal to any Withholding Taxes) will be remitted to you. The "Transaction Fee" is set forth here and may be revised by Google from time to time. You are responsible for providing any applicable tax residency certificates to Google. If Google or its service provider does not receive such documentation, Google will withhold at the domestic withholding tax rate. 
 
 3.4 Developer is responsible for determining if a Product is taxable and the applicable tax rate for the Payment Processor to collect for each taxing jurisdiction where Products are sold. Developer is responsible for remitting taxes to the appropriate taxing authority. Where Google, the Payment Processor or the Authorized Carrier is required by applicable (local) legislation to determine, apply and pay the applicable tax rate, Google, the Payment Processor or the Authorized Carrier (and not Developer) will be responsible for applying and collecting and remitting the taxes to the appropriate taxing authority. If Google collects and remits value added taxes on customer payments (where required of Google by applicable local law) and this remittance fulfills the applicable requirements for value added taxes on those customer payments, such taxes will not be passed on to Developer by Google. Where Google is required to collect and remit taxes as described in this section, Developer and Google will recognise a supply from Developer to Google for tax purposes, and developer will comply with the relevant tax obligations arising from this additional supply. 
 
@@ -82,7 +82,7 @@ Your Products may be subject to user ratings to which you may not agree. You may
 
 4.9 **Marketing Your Product.** You will be responsible for uploading your Products to Google Play, providing required Product information and support to users, and accurately disclosing the security permissions necessary for the Product to function on user Devices. Products that are not uploaded in accordance with this clause will not be published. 
 
-4.10 **Restricted Content.** Any Product you distribute via Google Play must adhere to the [Developer Program Policies](https://play.google.com/intl/None/about/developer-content-policy/). 
+4.10 **Restricted Content.** Any Product you distribute via Google Play must adhere to the [Developer Program Policies](https://play.google.com/intl/ALL_us/about/developer-content-policy/). 
 
 ##  5\. License Grants 
 
@@ -122,7 +122,7 @@ In the event that your Product is involuntarily removed because it is defective,
 
 9.1 In order to continually innovate and improve Google Play, Google may collect certain usage statistics from Google Play and Devices, including but not limited to, information on how Google Play and Devices are being used. 
 
-9.2 The data collected is examined in the aggregate to improve Google Play for users and Developers and is maintained in accordance with [Google's Privacy Policy](https://www.google.com/intl/None/policies/privacy/). To ensure the improvement of Products, limited aggregate data may be available to you upon written request. 
+9.2 The data collected is examined in the aggregate to improve Google Play for users and Developers and is maintained in accordance with [Google's Privacy Policy](https://www.google.com/intl/ALL_us/policies/privacy/). To ensure the improvement of Products, limited aggregate data may be available to you upon written request. 
 
 ##  10\. Terminating this Agreement 
 
@@ -181,7 +181,7 @@ In the event that your Product is involuntarily removed because it is defective,
 15.8 The obligations in Sections 5, 6.1 (solely as necessary to permit Google to effectuate Section 3.8), 7, 11, 12, 13, and 15 will survive any expiration or termination of this Agreement. 
 
   * © [Google](https://www.google.com)
-  * [Privacy &amp; Terms](https://www.google.com/policies/privacy/)
+  * [Privacy &amp; Terms](https://www.google.com/intl/en/policies/privacy/)
   * [Help](https://support.google.com/mobile/?p=play_faq&hl=en)
 
 Argentina  ‪Australia  ‪Belgium  ‪Brazil  ‪Canada - English  ‪Canada - French  ‪China  Czech Republic  Denmark  ‪Finland  France  ‪‪Germany  Greece  ‪Hungary  Hong Kong  India  Indonesia  Israel  ‪Italy  ‪Japan  Mexico  Netherlands  Norway  Poland  Portugal  Russia  ‪Singapore  ‪Slovakia  South Korea  Spain  ‪‪Sweden  ‪‪Switzerland  ‪‪Taiwan  Thailand  ‪Turkey  ‪United Kingdom  ‪‪United States  Vietnam  Other 
