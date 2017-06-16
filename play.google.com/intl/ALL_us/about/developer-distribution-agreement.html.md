@@ -88,7 +88,7 @@ Your Products may be subject to user ratings to which you may not agree. You may
 
 5.1 You grant to Google a nonexclusive, worldwide, and royalty-free license to: reproduce, perform, display, analyze, and use the Products in connection with (i) the operation and marketing of Google Play; (ii) the marketing of devices and services that support the use of the Products, (iii) making improvements to Google Play and the Android platform, and (iv) checking for compliance with this Agreement and the Developer Program Policies. 
 
-5.2 You grant to Google a non-exclusive, and royalty-free license to distribute the Products in the manner indicated in the Developer Console. 
+5.2 You grant to Google a non-exclusive, and royalty-free license to distribute the Products in the manner indicated in the Play Console. 
 
 5.3 Google may use consultants and other contractors in connection with the performance of obligations and exercise of rights under this agreement, provided that such consultants and contractors will be subject to the same obligations as Google. After termination of this Agreement, Google will not distribute your Product, but may retain and use copies of the Product for support of Google Play and the Android platform. 
 
