@@ -2,7 +2,7 @@
 
 __
 
-](https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/asset-download-files/TheTwitterUserAgreement_3.pdf)
+](https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/asset-download-files/TheTwitterUserAgreement-1.pdf)
 
 **If you live in the United States**, the Twitter User Agreement comprises these Terms of Service, our [Privacy Policy](https://twitter.com/privacy), the [Twitter Rules](https://twitter.com/rules) and all incorporated policies.
 
