@@ -184,4 +184,4 @@ In the event that your Product is involuntarily removed because it is defective,
   * [Privacy &amp; Terms](https://www.google.com/intl/en/policies/privacy/)
   * [Help](https://support.google.com/mobile/?p=play_faq&hl=en)
 
-Argentina  ‪Australia  ‪Belgium  ‪Brazil  ‪Canada - English  ‪Canada - French  ‪China  Czech Republic  Denmark  ‪Finland  France  ‪‪Germany  Greece  ‪Hungary  Hong Kong  India  Indonesia  Israel  ‪Italy  ‪Japan  Mexico  Netherlands  Norway  Poland  Portugal  Russia  ‪Singapore  ‪Slovakia  South Korea  Spain  ‪‪Sweden  ‪‪Switzerland  ‪‪Taiwan  Thailand  ‪Turkey  ‪United Kingdom  ‪‪United States  Vietnam  Other 
+Change language or region: Argentina  België  Brasil  Canada  Česká republika  Danmark  Deutschland  España  France  Indonesia  Italia  Magyarország  México  Nederland  Norge  Polska  Portugal  Schweiz  Singapore  Slovensko  Suomi  Sverige  Türkiye  United Kingdom  United States  Việt Nam  Ελλάδα  Россия  ‫ישראל‬  ไทย  대한민국  中国  台灣  日本  香港 
